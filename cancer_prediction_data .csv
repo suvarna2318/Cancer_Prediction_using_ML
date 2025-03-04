@@ -1,0 +1,2001 @@
+Age,Gender,Tumor_Size,Tumor_Grade,Symptoms_Severity,Family_History,Smoking_History,Alcohol_Consumption,Exercise_Frequency,Cancer_Present
+62.0,Male,9.763241530953835,High,Mild,Yes,Former Smoker,Moderate,,0
+33.0,Male,7.946532065914469,,Moderate,Yes,Current Smoker,None,Regularly,1
+33.0,Female,,High,Moderate,No,Current Smoker,High,Rarely,1
+58.0,Female,,Low,Mild,,Current Smoker,,Rarely,1
+,Female,1.3842311191182344,Medium,Mild,No,Former Smoker,Moderate,Occasionally,1
+38.0,Male,3.43598334596063,Medium,Moderate,No,Current Smoker,Moderate,Rarely,0
+37.0,,1.4898889415175,High,Severe,No,Former Smoker,None,Never,0
+36.0,Male,8.007843784927758,High,Moderate,Yes,Non-Smoker,High,Never,0
+60.0,,8.35968370103322,Medium,Mild,Yes,,None,Rarely,1
+31.0,,7.785141260296948,High,Moderate,,Current Smoker,Moderate,Never,1
+76.0,Male,4.967123403398617,Medium,,Yes,Non-Smoker,None,Never,1
+72.0,Male,7.910547747338077,Low,Severe,Yes,Current Smoker,Low,Rarely,0
+27.0,Female,5.402346510802664,High,Severe,No,Former Smoker,,Never,0
+28.0,Male,5.570009481928407,High,Mild,Yes,Non-Smoker,None,Occasionally,0
+65.0,Male,6.672061706714273,Low,Mild,No,Current Smoker,High,Never,1
+55.0,Male,5.8153947933707695,Medium,Moderate,Yes,Current Smoker,Moderate,Occasionally,0
+41.0,Female,2.2494828861270797,Low,Severe,No,Former Smoker,Moderate,Regularly,1
+28.0,Male,3.2816042779112724,High,Moderate,,Former Smoker,Low,Occasionally,1
+73.0,Female,1.708585755933312,Medium,Moderate,Yes,Former Smoker,Low,Rarely,1
+58.0,Male,,,Severe,Yes,Former Smoker,Moderate,Regularly,1
+74.0,Female,7.889471268154384,Medium,Severe,Yes,Non-Smoker,,Rarely,0
+52.0,Male,7.330979485619771,Low,Severe,No,Former Smoker,,Rarely,1
+42.0,Female,3.3721844405130055,,Moderate,Yes,Former Smoker,None,Regularly,0
+53.0,Male,6.5566052810804365,Low,Moderate,Yes,Current Smoker,Moderate,Rarely,1
+79.0,Female,5.9274059596361335,Low,,No,,None,,0
+24.0,Female,,Medium,,Yes,Non-Smoker,None,Occasionally,0
+26.0,Male,7.580832045287654,Low,,No,Current Smoker,Low,Occasionally,0
+29.0,Male,0.7686059220444885,Low,Severe,Yes,Current Smoker,High,Rarely,1
+43.0,Male,2.469796228131469,Medium,Mild,,Non-Smoker,Low,Occasionally,0
+62.0,,2.8591648041680533,High,Mild,No,Non-Smoker,,Rarely,1
+34.0,Female,7.6062324420476894,High,Moderate,No,Non-Smoker,Moderate,Occasionally,0
+36.0,Female,6.193332181936675,High,Mild,Yes,Current Smoker,Moderate,Never,0
+22.0,Male,9.592636165025498,Medium,Severe,Yes,Former Smoker,Moderate,Regularly,0
+60.0,Female,7.14058822887497,Medium,Moderate,Yes,Current Smoker,,Regularly,1
+,Male,8.0189824970324,High,Mild,Yes,Current Smoker,High,Rarely,1
+63.0,Male,3.62891668374088,High,Mild,Yes,Non-Smoker,Low,Occasionally,0
+67.0,Female,7.913135779459906,Medium,Severe,No,Non-Smoker,,Never,1
+,Male,9.842529195728112,Medium,Moderate,No,Non-Smoker,High,Rarely,1
+34.0,Female,0.9227828970080433,Medium,,No,Former Smoker,,,0
+29.0,Male,0.8986720602645133,Medium,Moderate,Yes,Non-Smoker,None,Occasionally,0
+29.0,Male,5.5766548205451345,Medium,Mild,Yes,Former Smoker,High,Regularly,0
+45.0,,4.8898508849301745,Low,Severe,,Current Smoker,Moderate,Rarely,0
+33.0,Female,6.268737753841704,Low,Severe,No,Non-Smoker,High,Rarely,1
+25.0,Male,,High,Moderate,No,Former Smoker,,Occasionally,0
+40.0,Female,9.626663899255144,Low,Moderate,No,Former Smoker,None,Rarely,1
+32.0,Male,7.960933770182352,Low,Severe,Yes,Former Smoker,Low,Never,1
+65.0,Female,3.025669668033526,High,Severe,No,Non-Smoker,None,Never,1
+55.0,Female,2.6923801353328227,High,,No,Non-Smoker,Low,Regularly,1
+74.0,Female,8.492632959943322,Low,Mild,No,Former Smoker,,Occasionally,1
+79.0,Male,4.316673784100461,Low,Severe,Yes,Current Smoker,High,Regularly,0
+56.0,Female,6.789656994155157,Medium,Mild,No,Former Smoker,Moderate,,1
+24.0,Male,2.768380007209899,Medium,,No,Current Smoker,None,Rarely,1
+42.0,Male,0.7457763222870613,Low,Severe,No,,None,Regularly,0
+35.0,Male,8.773543026044619,High,Moderate,Yes,Former Smoker,Moderate,Rarely,1
+78.0,Male,9.566446685145044,Medium,Moderate,Yes,Former Smoker,None,Regularly,0
+76.0,,1.6835827682500284,Medium,Mild,No,Former Smoker,,,0
+39.0,Female,1.7329498777533539,Medium,Moderate,,Current Smoker,,Occasionally,0
+24.0,Male,2.5154890152050973,Medium,Mild,Yes,Current Smoker,Moderate,Occasionally,1
+70.0,Male,9.227621780662796,Medium,Moderate,No,,High,Regularly,1
+,Male,6.980734729818801,Medium,Severe,No,Current Smoker,None,Regularly,0
+49.0,Male,8.27139177188081,High,Severe,Yes,Former Smoker,Low,Never,1
+46.0,Female,2.2786817078253137,Low,Mild,Yes,Former Smoker,None,Regularly,1
+,Female,7.005258673465765,,Moderate,Yes,Current Smoker,Moderate,,1
+64.0,Female,,Low,Moderate,Yes,Current Smoker,None,Regularly,1
+40.0,Male,5.930177436154455,,Severe,,Current Smoker,,Regularly,0
+46.0,Male,1.6598670428407871,High,Mild,,Current Smoker,High,Never,1
+66.0,Female,,High,Moderate,No,Non-Smoker,,Rarely,1
+65.0,Female,1.9932092182345136,Low,Severe,Yes,,Low,Never,1
+46.0,Female,1.7676127359258258,Medium,Severe,Yes,Former Smoker,Low,,1
+59.0,Male,3.7241652543925365,Low,Mild,No,Former Smoker,High,Rarely,1
+51.0,Female,0.6229573682966725,High,Moderate,Yes,Former Smoker,Low,Never,1
+44.0,Male,2.312627898585588,High,Severe,,Current Smoker,,Never,1
+73.0,Female,,Low,Moderate,No,Former Smoker,None,Occasionally,0
+28.0,Male,1.034859518216635,High,Severe,,Non-Smoker,Low,Never,0
+56.0,Male,9.590383077061702,,Moderate,No,Current Smoker,Low,Occasionally,1
+67.0,Female,1.8296793693548337,Medium,Mild,Yes,,,Rarely,0
+21.0,Female,6.858207506772317,High,Mild,Yes,Current Smoker,None,Occasionally,0
+,Male,6.181616058785601,Medium,Mild,Yes,,High,Never,0
+,Female,6.974326593067966,Low,Severe,Yes,Current Smoker,,Regularly,1
+24.0,Female,1.1604310804222058,,,Yes,Former Smoker,High,Regularly,1
+46.0,Male,1.794918954008307,Low,Severe,Yes,Former Smoker,High,,1
+40.0,Female,1.8488731927304132,Medium,Mild,Yes,Non-Smoker,High,Never,0
+24.0,,4.218677910292358,Low,Mild,No,Non-Smoker,Low,Regularly,1
+35.0,Male,1.6836719926281472,Low,Severe,Yes,Former Smoker,Low,Rarely,0
+26.0,Female,8.125845909205635,High,Moderate,No,Former Smoker,None,Rarely,0
+,Female,5.359856092857975,Low,Mild,Yes,Former Smoker,Moderate,Occasionally,0
+60.0,Female,4.341599399939954,High,Severe,No,Former Smoker,Low,Never,1
+63.0,Male,2.4260312546897325,High,Moderate,No,Current Smoker,Low,,1
+65.0,Female,9.144851371328434,Medium,Mild,Yes,Non-Smoker,Moderate,Rarely,0
+61.0,Female,9.47980358704079,Low,Moderate,No,Former Smoker,Low,,1
+49.0,Male,2.1071288292099046,High,Moderate,Yes,Former Smoker,None,,0
+56.0,,4.434871945073661,Medium,Moderate,Yes,Current Smoker,Moderate,Regularly,0
+46.0,Female,5.645378033390369,,Severe,No,Former Smoker,Low,Never,0
+37.0,Male,9.796477650260487,Medium,Mild,Yes,Current Smoker,None,Rarely,1
+36.0,Female,9.453706938833012,,,Yes,Former Smoker,None,,0
+20.0,,,Low,Severe,No,,Moderate,,1
+26.0,Female,3.0054902599003843,Low,,Yes,Former Smoker,Moderate,Rarely,1
+43.0,Female,5.918859457808591,High,Severe,Yes,Non-Smoker,High,,1
+33.0,Male,,Medium,Mild,No,Former Smoker,Low,Rarely,1
+52.0,,1.0221735305356958,Medium,Severe,No,Former Smoker,Low,Never,1
+60.0,Male,0.6001797279139012,Medium,Moderate,Yes,Current Smoker,Moderate,Never,1
+62.0,Female,2.45784293870217,,Moderate,Yes,Former Smoker,Low,Regularly,0
+25.0,Male,2.263757006411952,Medium,Mild,No,Current Smoker,High,Regularly,0
+72.0,Male,7.0413262792792075,Low,,Yes,Current Smoker,High,Never,0
+62.0,Female,2.636160284031906,Low,Severe,Yes,Former Smoker,Low,Never,0
+42.0,Male,4.728824144521317,Low,Moderate,No,Current Smoker,None,Regularly,1
+22.0,Female,7.425585477617496,,Mild,Yes,Current Smoker,Low,Rarely,0
+36.0,Female,3.0986508490141267,High,Moderate,No,Former Smoker,Low,Never,1
+69.0,,9.656080833826872,High,Mild,No,Non-Smoker,None,Rarely,0
+52.0,Female,0.7379773109284838,Medium,Mild,Yes,Former Smoker,Low,Regularly,0
+52.0,,6.977884220667338,High,Severe,,Non-Smoker,High,,1
+72.0,Female,1.2385912216198194,High,Severe,No,Current Smoker,Moderate,Never,1
+,Male,3.35881562918985,Low,Mild,No,,None,Rarely,0
+62.0,Female,5.069986962816275,Medium,Moderate,,Non-Smoker,High,Occasionally,1
+26.0,Male,4.814896344055526,High,Moderate,No,Former Smoker,,Occasionally,1
+,Male,9.45760377329785,Medium,Mild,No,Former Smoker,Low,Occasionally,0
+27.0,Female,2.6789434205857114,Medium,Severe,No,Former Smoker,Low,Rarely,1
+35.0,,7.148772217945436,High,,Yes,Former Smoker,Low,Regularly,1
+41.0,Female,7.6589211308736695,Medium,Severe,Yes,Non-Smoker,High,Occasionally,1
+27.0,,4.523470387955045,High,Severe,Yes,Current Smoker,Moderate,Occasionally,1
+25.0,Male,8.696470068118531,High,,,Current Smoker,None,Occasionally,1
+67.0,,8.95867002853264,High,,,Non-Smoker,Moderate,Regularly,0
+72.0,Female,2.108875344479751,Medium,Severe,No,Non-Smoker,,Never,1
+20.0,Male,5.327998305622233,Low,Mild,Yes,Former Smoker,None,Occasionally,1
+51.0,Male,5.919963938659951,High,Mild,No,Former Smoker,High,,0
+61.0,Female,1.680847558218216,Medium,Severe,,Non-Smoker,Low,Rarely,1
+37.0,Female,4.611457147962696,Low,Severe,No,Former Smoker,Low,Regularly,0
+,Female,9.904152517003634,,Severe,Yes,Non-Smoker,Moderate,Never,0
+,Male,6.864512273701131,High,Moderate,Yes,Current Smoker,None,Occasionally,0
+35.0,Male,5.105712958115269,Low,Mild,Yes,Current Smoker,None,Never,1
+77.0,,7.215548716400644,Low,Severe,Yes,Non-Smoker,Moderate,,0
+52.0,Female,6.372131597921232,,Severe,No,Non-Smoker,,Regularly,1
+,Male,9.345737301433044,Low,Moderate,No,,Moderate,Rarely,1
+52.0,,0.5574139892867007,High,Mild,Yes,Current Smoker,None,Occasionally,1
+65.0,Male,,High,Mild,Yes,Current Smoker,None,Rarely,1
+78.0,Female,9.064559012778938,Medium,Mild,No,Non-Smoker,Low,Rarely,1
+42.0,Female,3.2713261014898607,Medium,Moderate,No,Former Smoker,High,Regularly,1
+75.0,Male,1.340973446071225,Low,,Yes,Former Smoker,Low,Rarely,0
+73.0,Female,9.278849688760499,Low,Mild,Yes,Former Smoker,Low,Occasionally,1
+,Male,0.6963602762397159,Medium,Moderate,Yes,Former Smoker,Low,Regularly,1
+36.0,Female,4.688475741642065,High,Severe,,Current Smoker,High,Occasionally,1
+61.0,Male,8.712930673275464,Low,Moderate,Yes,Current Smoker,High,Occasionally,1
+54.0,Male,6.100165471022941,Low,Mild,Yes,Non-Smoker,High,Rarely,1
+,Female,0.7611304235753646,High,Moderate,No,Current Smoker,,Occasionally,1
+78.0,Female,4.474245529815306,High,Severe,Yes,Non-Smoker,Moderate,Occasionally,0
+55.0,Female,6.903966823927107,Medium,Moderate,Yes,Non-Smoker,Moderate,Occasionally,0
+23.0,Male,8.626455104668386,High,Moderate,No,Non-Smoker,Moderate,Regularly,1
+34.0,Male,5.8089630072384875,Medium,Moderate,,Current Smoker,None,Regularly,1
+,Female,3.4543680105823444,Medium,Moderate,Yes,Current Smoker,Low,Rarely,1
+41.0,Male,,Medium,Mild,No,Current Smoker,Low,,0
+61.0,Male,5.742991760923271,High,Moderate,No,Current Smoker,None,Rarely,1
+75.0,,8.306124522596402,,Moderate,No,Non-Smoker,Low,Occasionally,0
+32.0,Male,3.909411505459351,High,Severe,,Former Smoker,Moderate,Regularly,0
+,Female,,High,Severe,Yes,Current Smoker,None,Regularly,0
+,Female,,,Severe,No,Former Smoker,High,Rarely,1
+54.0,Female,,Medium,Moderate,,Current Smoker,None,Never,0
+54.0,Female,9.973062534520928,Low,Mild,Yes,Current Smoker,None,Rarely,0
+58.0,Male,1.8742703857619827,High,Mild,No,Non-Smoker,Moderate,Never,0
+64.0,Female,7.866111641300463,Low,Mild,No,Non-Smoker,Moderate,Rarely,1
+42.0,Female,8.931031985145918,High,Mild,No,Non-Smoker,Low,Rarely,1
+26.0,,6.172517164112513,High,Mild,Yes,Non-Smoker,High,Occasionally,0
+79.0,Male,4.176729926154617,Medium,Severe,Yes,Current Smoker,,Never,0
+73.0,Female,1.7405214121045554,,,No,Current Smoker,High,Rarely,1
+22.0,Female,2.970814033370853,High,Moderate,Yes,Non-Smoker,,Occasionally,0
+35.0,Female,,Low,Moderate,No,Non-Smoker,Low,Occasionally,1
+35.0,Female,2.160462553227603,Low,Severe,No,Current Smoker,Moderate,Occasionally,0
+72.0,Male,3.695282858407097,Low,Moderate,No,Current Smoker,Moderate,Occasionally,0
+38.0,Female,0.559798517021517,High,Severe,,,Moderate,Rarely,0
+75.0,Male,9.905692674607895,High,Moderate,No,Former Smoker,Moderate,Rarely,0
+,Female,6.349930040288162,High,Mild,No,Current Smoker,Low,Occasionally,1
+29.0,Female,,High,Moderate,Yes,Former Smoker,,Regularly,1
+66.0,Male,4.169784085493289,Low,Mild,Yes,Non-Smoker,Moderate,Occasionally,1
+37.0,Female,1.4194608977593988,Medium,Moderate,Yes,Current Smoker,None,Rarely,0
+54.0,,1.2269636881023125,Low,Severe,No,Former Smoker,High,Regularly,0
+30.0,,4.878025977753955,High,Severe,Yes,Former Smoker,High,Regularly,0
+,Female,2.4765391051017605,Low,Moderate,No,Former Smoker,None,Rarely,0
+75.0,Female,5.2097766492597115,High,,No,Non-Smoker,High,Regularly,1
+38.0,Female,,High,Mild,Yes,Non-Smoker,High,Rarely,0
+62.0,Female,5.7305773715245465,High,Moderate,No,Former Smoker,Moderate,,1
+23.0,Female,5.385514173292301,High,Mild,No,Non-Smoker,Moderate,Occasionally,1
+69.0,Male,2.7649356613857066,High,Severe,No,Former Smoker,Low,Occasionally,0
+39.0,Male,4.430796451572231,Medium,Mild,,Current Smoker,None,,1
+56.0,Male,3.5729141499410155,,Mild,Yes,Former Smoker,High,Rarely,1
+74.0,Female,7.012201729264191,Low,Moderate,Yes,Current Smoker,High,Rarely,1
+36.0,Female,6.977537293022147,High,Mild,No,Non-Smoker,Low,Rarely,1
+74.0,Male,3.8265826304445545,Medium,Severe,No,Former Smoker,Moderate,Never,0
+57.0,Male,7.4900941737521345,Low,,Yes,Former Smoker,None,Never,1
+36.0,Female,1.7669835101613822,Low,,Yes,Former Smoker,Low,Never,1
+25.0,Male,9.962901886562587,Medium,Moderate,No,,Low,Never,0
+52.0,,1.0080992664937816,Medium,Mild,No,Former Smoker,Moderate,Rarely,1
+76.0,Female,9.484913317328703,High,Mild,Yes,Current Smoker,,Never,0
+45.0,Female,9.64972149464138,Medium,Severe,Yes,Non-Smoker,High,Regularly,1
+42.0,Male,8.000316624101444,Low,Severe,No,Current Smoker,,Regularly,1
+44.0,Female,6.448307873094235,Low,Severe,Yes,Current Smoker,High,Occasionally,1
+,Female,8.402028736297215,,Moderate,Yes,Current Smoker,Moderate,Occasionally,0
+53.0,Male,,High,Moderate,No,,High,Regularly,0
+,Female,5.322271975090946,Medium,Severe,Yes,Former Smoker,High,Never,0
+23.0,Female,6.620312948330247,High,Mild,No,Non-Smoker,High,Regularly,1
+64.0,Male,7.648681424372258,High,Mild,Yes,,None,Occasionally,0
+56.0,Female,7.43911742877717,,Severe,,Current Smoker,None,,0
+38.0,Female,5.981752751146051,Low,Severe,No,Non-Smoker,High,Regularly,0
+26.0,Female,4.368578810864806,High,Moderate,Yes,Non-Smoker,High,Never,1
+35.0,Female,0.9459490840318454,Medium,Moderate,Yes,,Moderate,,1
+66.0,Male,8.891742139739494,Medium,,Yes,Non-Smoker,None,Never,0
+28.0,Male,8.952754491054451,High,Moderate,Yes,Former Smoker,Low,Never,1
+26.0,Female,9.755154557776844,Medium,Mild,Yes,Former Smoker,Low,Never,0
+39.0,Male,7.181124238325687,Low,Moderate,Yes,Non-Smoker,Low,Rarely,1
+37.0,Female,0.5573092628756191,Low,Severe,Yes,Current Smoker,High,Rarely,0
+21.0,Female,4.688765668558377,High,Moderate,,Current Smoker,None,Regularly,1
+54.0,Female,,Low,Mild,No,Non-Smoker,Moderate,Never,1
+50.0,Male,0.872251429293614,Medium,Moderate,Yes,Former Smoker,None,Occasionally,0
+64.0,Male,7.462845454892731,,Mild,,Former Smoker,High,,1
+42.0,Male,8.51805181911794,Low,Moderate,,Former Smoker,Low,Rarely,0
+31.0,Female,7.047421237742106,High,Moderate,No,Former Smoker,Low,,0
+,Male,9.807134019157774,High,Moderate,No,Former Smoker,Low,,0
+,Male,4.4891196341424155,Low,Mild,Yes,Non-Smoker,,Occasionally,1
+34.0,Female,3.8785084697801913,Medium,Moderate,Yes,Former Smoker,Moderate,Rarely,1
+64.0,Male,3.4238876597833228,Medium,,,Current Smoker,Moderate,Occasionally,0
+,Male,2.2614651537605934,Low,Mild,No,,Low,Never,0
+63.0,Female,0.7722491118539243,High,Mild,,,,Never,0
+50.0,Male,,Low,Mild,No,,High,,0
+48.0,Female,2.514095219218972,Medium,Moderate,No,Current Smoker,,Regularly,0
+26.0,Male,6.45924945509623,,Mild,Yes,Former Smoker,None,Occasionally,0
+57.0,Female,,High,Moderate,Yes,Former Smoker,Moderate,Never,0
+,Female,0.8246671083341095,Low,Moderate,No,Current Smoker,High,Regularly,1
+20.0,Male,,Medium,Mild,No,,None,Occasionally,1
+37.0,Male,,High,Severe,No,Former Smoker,High,Rarely,0
+78.0,Male,7.791869807339669,,Severe,Yes,Current Smoker,Moderate,Regularly,0
+44.0,Female,,Low,Moderate,No,Non-Smoker,None,Occasionally,0
+71.0,Female,8.085617394972509,High,,Yes,Current Smoker,Moderate,Occasionally,1
+30.0,Male,8.807088501585977,Low,Moderate,Yes,Non-Smoker,High,Occasionally,1
+38.0,Female,2.5315572624022753,,Moderate,,Non-Smoker,,Occasionally,1
+48.0,Female,6.221274772003028,Medium,Mild,No,Current Smoker,High,Occasionally,0
+42.0,,6.605998811972249,High,Severe,Yes,Former Smoker,High,Regularly,1
+71.0,Female,6.243521293301721,,Mild,Yes,Current Smoker,Low,,0
+30.0,,6.729231178424926,High,Severe,Yes,Non-Smoker,None,Regularly,0
+64.0,Male,5.968289679057399,Medium,Mild,Yes,Former Smoker,Moderate,,0
+39.0,Male,7.0599503810591,Low,,No,Current Smoker,Low,Rarely,1
+38.0,Male,8.300359976281104,High,,Yes,Non-Smoker,High,Never,0
+74.0,Female,5.850996481610581,Low,Severe,No,Former Smoker,None,Rarely,1
+53.0,Male,1.2601454089743274,Low,Severe,Yes,Non-Smoker,None,,0
+60.0,Male,3.1377238002930246,Medium,Moderate,No,Current Smoker,High,Regularly,1
+76.0,Male,2.8535046934072885,Medium,Severe,Yes,Non-Smoker,Moderate,Rarely,0
+74.0,Female,6.056009753554216,Medium,Moderate,No,Current Smoker,Moderate,Occasionally,1
+63.0,Male,7.172202874774974,Medium,Mild,Yes,Current Smoker,High,Regularly,1
+51.0,Male,8.309053635572429,Low,Severe,Yes,Current Smoker,Moderate,Occasionally,1
+52.0,,5.354816189025628,High,Moderate,Yes,Former Smoker,High,Regularly,0
+38.0,Male,0.7296075340703368,High,Moderate,No,Current Smoker,None,Occasionally,1
+68.0,Female,2.9546630704299286,Low,Mild,,Current Smoker,,Occasionally,1
+29.0,Female,1.945826829025417,High,,Yes,Non-Smoker,,Regularly,0
+46.0,Female,,Low,Mild,,Former Smoker,Low,Rarely,0
+48.0,Male,8.645295501708889,,Mild,No,Non-Smoker,Low,Rarely,0
+52.0,,5.562170517347116,Low,Severe,,Former Smoker,Low,Never,1
+77.0,Female,5.2947173284580185,High,Moderate,No,,High,Rarely,1
+66.0,Male,4.50802101976144,High,Moderate,No,Former Smoker,Low,Regularly,1
+,Male,4.1150214426409075,,Severe,No,,None,Regularly,1
+79.0,Female,4.804866289868482,High,,Yes,Former Smoker,,,1
+38.0,Male,7.9587573505261275,Medium,Moderate,Yes,Current Smoker,Moderate,Never,1
+63.0,Male,1.6824013482001359,Medium,Mild,Yes,Former Smoker,None,,0
+59.0,Female,,Low,Mild,Yes,Non-Smoker,,Regularly,1
+38.0,Female,2.573929351103735,Low,Severe,No,,Moderate,Occasionally,0
+55.0,Female,3.334522019430748,High,Moderate,No,Current Smoker,High,,1
+43.0,Male,6.464628269533799,Medium,Moderate,Yes,Non-Smoker,,Regularly,1
+32.0,Female,9.12629278331888,Low,Moderate,No,Former Smoker,,Never,1
+77.0,Female,6.799125135575651,Medium,Severe,Yes,Non-Smoker,Low,Rarely,1
+39.0,Male,9.004535352503908,Low,Severe,No,Non-Smoker,High,Never,1
+71.0,Male,1.4616983287951875,High,Mild,No,Non-Smoker,Moderate,Occasionally,1
+36.0,Female,,Medium,Mild,No,Current Smoker,High,Rarely,1
+41.0,Female,4.579048001984611,Medium,Moderate,No,Former Smoker,Moderate,Rarely,0
+32.0,Male,2.281715462902545,Low,Severe,No,Current Smoker,Low,Rarely,1
+73.0,Female,,High,Moderate,,Current Smoker,Moderate,Regularly,1
+37.0,Male,,High,Severe,Yes,Current Smoker,High,Rarely,0
+42.0,Male,4.818950892908346,High,Moderate,Yes,Non-Smoker,None,Never,1
+44.0,Male,8.572585172838437,Low,Severe,Yes,Current Smoker,Moderate,Regularly,1
+41.0,Male,4.866442615803073,,Severe,No,Current Smoker,None,,1
+56.0,,0.8766154470869041,High,,No,Current Smoker,Low,Rarely,0
+30.0,Female,0.6980084001198946,Medium,Mild,No,,None,Never,1
+79.0,Female,7.111949402052838,,Mild,No,Former Smoker,Moderate,Never,0
+34.0,Male,3.012893912081867,Low,Mild,Yes,Former Smoker,Moderate,,1
+71.0,Female,0.9715841756804213,High,Moderate,Yes,Former Smoker,High,Regularly,1
+71.0,Female,5.319967451211993,Medium,Severe,Yes,Former Smoker,Low,,1
+25.0,Male,9.67280228763404,Low,Mild,Yes,Current Smoker,None,Occasionally,1
+66.0,Female,8.177063759645954,High,Severe,Yes,Non-Smoker,,Never,0
+32.0,Female,2.4484393449453377,High,Mild,,Former Smoker,None,Regularly,1
+,Male,8.553023526547463,High,Severe,Yes,Current Smoker,Moderate,,0
+69.0,Female,2.0885087413625936,High,Severe,No,Current Smoker,Moderate,Occasionally,0
+37.0,,9.55246354700022,High,Moderate,Yes,Non-Smoker,High,Regularly,1
+56.0,Female,6.224861131634448,,Moderate,No,Current Smoker,High,Occasionally,0
+37.0,,8.198757653228622,,Severe,,Former Smoker,,Never,1
+,Male,9.424949771944657,High,Mild,Yes,Non-Smoker,Moderate,Regularly,1
+58.0,Female,5.163104358346395,Medium,Mild,Yes,Former Smoker,Moderate,Rarely,0
+79.0,Female,1.8064632691651341,Medium,Moderate,,,,Never,0
+59.0,Female,2.558537716206134,Medium,Moderate,Yes,Current Smoker,Low,,1
+,Female,2.766253362193469,,Moderate,Yes,Current Smoker,None,Rarely,1
+48.0,Male,5.644544631255768,Low,,No,Non-Smoker,Low,Regularly,1
+25.0,,7.495972679518871,High,Severe,No,Non-Smoker,None,Rarely,1
+,Male,2.7955930945925265,High,Mild,No,Current Smoker,Low,Rarely,0
+,Female,3.6711056738529004,High,Severe,Yes,,High,Rarely,0
+75.0,Male,6.10194448220594,Low,Mild,Yes,Non-Smoker,None,Occasionally,1
+52.0,Female,,High,Moderate,Yes,Former Smoker,,Rarely,0
+,Male,7.820764720368395,Low,Mild,No,Current Smoker,None,Never,1
+,Male,8.799976758523938,Low,Severe,No,Non-Smoker,Moderate,Occasionally,0
+26.0,Male,4.324838868852882,High,Severe,No,,Low,,1
+66.0,Male,6.299633042552105,Medium,Severe,Yes,Former Smoker,High,,0
+66.0,Male,2.7178579331860826,Low,Severe,No,,Moderate,Never,0
+33.0,Male,1.1680854491270511,High,Severe,No,Non-Smoker,None,Regularly,0
+29.0,Female,2.0737439562336815,Medium,,Yes,Non-Smoker,Low,Rarely,1
+45.0,Female,1.0938619468757185,Medium,Severe,Yes,Current Smoker,Low,Occasionally,0
+29.0,Female,6.04377883597861,High,Severe,,Non-Smoker,,Never,0
+26.0,Female,9.39285500988182,High,,Yes,Current Smoker,Moderate,Rarely,0
+74.0,Male,2.751839125018035,Medium,Mild,Yes,Non-Smoker,,Rarely,1
+74.0,,4.9395992031234375,Medium,Severe,Yes,Former Smoker,None,,0
+26.0,,0.7603781106690397,Low,,Yes,Current Smoker,Low,Regularly,1
+64.0,Male,1.6495969414791798,Low,Mild,,Current Smoker,High,Never,1
+69.0,Female,1.6321547083525814,High,Mild,Yes,,None,Occasionally,0
+58.0,Female,9.677508117603441,Low,,Yes,Current Smoker,High,Occasionally,0
+43.0,Male,5.866682971742181,Low,Moderate,Yes,Current Smoker,,,0
+26.0,Male,8.795266335649854,Low,Severe,No,Non-Smoker,Low,Never,0
+,Male,8.18897169548993,Low,Mild,No,Former Smoker,Moderate,,0
+,,9.439593598100886,Medium,Mild,No,Current Smoker,Low,Regularly,1
+60.0,Female,,Medium,Mild,No,Former Smoker,High,Occasionally,1
+,Female,2.468701563876639,Low,Mild,Yes,Current Smoker,High,Never,0
+41.0,Male,8.303164992695333,High,Severe,,,Low,Regularly,0
+,,0.7696528975698581,High,Severe,Yes,Non-Smoker,High,Rarely,1
+40.0,Female,3.3392342867916587,Medium,Severe,No,Former Smoker,High,Regularly,1
+76.0,Female,2.553538643390786,Low,Moderate,Yes,Former Smoker,None,Never,1
+54.0,,9.070119372178324,Medium,Moderate,No,Non-Smoker,High,Occasionally,0
+25.0,Male,5.2731075670052165,Low,Moderate,Yes,Former Smoker,High,Regularly,0
+,Male,6.375599972463896,Low,Moderate,Yes,Current Smoker,Low,Occasionally,1
+40.0,,2.052339348661108,High,Severe,Yes,Non-Smoker,None,Regularly,0
+38.0,,5.949183561834134,Medium,Severe,Yes,Former Smoker,Moderate,Rarely,1
+73.0,Female,3.814621101105758,High,Mild,Yes,,High,Occasionally,1
+29.0,Female,2.4289208959121042,High,Moderate,No,Current Smoker,,Regularly,0
+26.0,Male,1.8790412615346688,Low,Severe,No,Non-Smoker,None,Regularly,1
+26.0,Male,7.624298701371036,Medium,Severe,No,Current Smoker,High,Rarely,1
+23.0,Female,9.935646538564637,Medium,Severe,Yes,Current Smoker,High,Occasionally,1
+65.0,Male,7.740826135633161,,Severe,Yes,Former Smoker,Low,Regularly,0
+,Male,4.267775077245522,Low,Severe,No,Current Smoker,Moderate,Rarely,0
+27.0,Female,5.671189285401069,Medium,Severe,Yes,Former Smoker,,Never,1
+54.0,Male,6.06017945223355,High,Moderate,Yes,,High,Regularly,0
+24.0,Female,2.9804975726528657,Medium,Severe,Yes,Current Smoker,High,Never,1
+20.0,,3.3934813186324844,Low,Mild,No,,High,Rarely,1
+58.0,Female,,Low,Moderate,Yes,,,Never,1
+50.0,Male,7.3179263537466355,High,Severe,Yes,Non-Smoker,Moderate,Never,0
+57.0,Male,7.920655908145731,High,Mild,No,Former Smoker,Moderate,Never,0
+74.0,Female,1.4802092271968323,Medium,Severe,No,Non-Smoker,None,Regularly,0
+20.0,Male,9.778933031330666,High,Moderate,No,Non-Smoker,High,Regularly,0
+,Male,8.338468811035334,Medium,Severe,,Current Smoker,High,Never,0
+46.0,Male,7.594674604542094,Low,Mild,Yes,Former Smoker,High,Occasionally,1
+30.0,,8.11706095349188,High,Mild,Yes,Current Smoker,High,Rarely,1
+38.0,,2.5844532320250178,High,Moderate,Yes,Former Smoker,,Occasionally,1
+72.0,Male,1.1298199329707934,High,Mild,Yes,Current Smoker,Low,Rarely,0
+37.0,Female,7.588270628065766,Low,Severe,Yes,Non-Smoker,,Never,1
+,Female,6.314992981544428,High,Severe,Yes,,Moderate,Never,0
+28.0,Female,5.866675744192219,Medium,Moderate,Yes,,,Rarely,0
+67.0,Female,6.314133050614659,Medium,,No,Former Smoker,Moderate,Occasionally,0
+56.0,Male,7.696418496276509,,Moderate,Yes,Current Smoker,None,Rarely,0
+78.0,Female,2.2311565712706276,Low,Mild,No,Non-Smoker,None,Regularly,0
+51.0,Female,5.366388650227295,Low,Mild,,Non-Smoker,None,Rarely,0
+32.0,Male,5.478176592295034,High,,Yes,Current Smoker,None,Rarely,0
+23.0,Male,4.705268858746966,Low,Severe,No,Non-Smoker,Low,,0
+30.0,Female,4.005634383189305,High,Severe,No,Current Smoker,None,Regularly,0
+39.0,Male,,Low,Severe,No,Former Smoker,Moderate,Rarely,0
+,Male,8.56991417153965,High,Moderate,No,Former Smoker,Moderate,,0
+56.0,Female,3.4776467976654906,Medium,Moderate,No,Former Smoker,None,Regularly,1
+35.0,Female,4.898818778321154,Low,Severe,No,Non-Smoker,None,Never,0
+,,4.590766166388371,Low,Severe,No,Non-Smoker,High,Never,0
+33.0,Female,5.185079050867778,High,Severe,No,Former Smoker,Moderate,Occasionally,1
+25.0,Male,8.581961804258924,Low,Mild,Yes,Non-Smoker,,Never,1
+42.0,Female,3.0742250658688226,Medium,Moderate,No,Current Smoker,Moderate,Rarely,1
+77.0,Female,8.671243750275025,Low,Severe,Yes,Current Smoker,Low,Rarely,1
+35.0,Female,7.763536190924855,Low,,Yes,Former Smoker,Low,,1
+54.0,Male,0.6101185254033417,Low,Severe,Yes,,Moderate,,1
+,Female,3.8353984244714687,Medium,Severe,Yes,Non-Smoker,None,Rarely,1
+41.0,Male,5.219915113159197,Low,Severe,Yes,Current Smoker,None,Regularly,0
+29.0,Female,1.3647626289242485,Medium,Moderate,No,Former Smoker,Moderate,Never,1
+54.0,Female,4.128001204858835,,Mild,Yes,Current Smoker,High,Occasionally,1
+31.0,Female,1.6270779850390276,Low,Mild,No,Former Smoker,High,Regularly,0
+48.0,Female,8.601915437130058,Low,Severe,Yes,Former Smoker,Low,Regularly,1
+64.0,Male,9.217305479445052,Low,Severe,Yes,Non-Smoker,None,Rarely,1
+79.0,Female,4.309209429006643,Medium,,,Current Smoker,None,Occasionally,1
+33.0,Male,2.874960656408819,Low,Mild,Yes,Current Smoker,High,Occasionally,1
+56.0,Female,6.177823638973196,High,Mild,,Former Smoker,Low,Occasionally,0
+25.0,Male,,High,Mild,Yes,Non-Smoker,High,,1
+44.0,Male,5.7616676570738266,Low,Severe,No,Non-Smoker,,Regularly,1
+44.0,Male,5.183206543320011,Low,Moderate,,Non-Smoker,Low,Rarely,1
+72.0,Female,2.422613382993272,Medium,Mild,No,Current Smoker,High,Occasionally,0
+26.0,Female,,Low,Severe,No,Current Smoker,Low,Regularly,0
+75.0,Male,1.5482867199641956,Low,Severe,Yes,Current Smoker,Low,Regularly,0
+,,,Medium,,No,Former Smoker,High,Never,0
+77.0,Male,9.587904872405543,High,Severe,No,Former Smoker,High,Occasionally,0
+60.0,Female,5.579740190723569,High,Mild,No,Current Smoker,Low,Occasionally,0
+30.0,Male,9.352873231190275,High,Severe,No,Former Smoker,Low,Regularly,0
+37.0,,9.21444165063983,Low,Mild,No,Former Smoker,None,Occasionally,0
+37.0,Female,4.661962808334001,Low,Mild,No,Current Smoker,None,Occasionally,1
+51.0,Female,5.240536241405395,High,Moderate,Yes,,High,Occasionally,0
+36.0,Female,4.229641863939966,High,Mild,Yes,Non-Smoker,Moderate,Rarely,1
+,,8.382165490192842,High,Mild,,Non-Smoker,High,Rarely,1
+76.0,Male,0.9758212225980455,Medium,Moderate,No,Former Smoker,Low,Regularly,1
+65.0,Male,,Low,Mild,,Non-Smoker,High,Rarely,1
+31.0,Male,2.265667615213567,Medium,Severe,No,Non-Smoker,None,Never,1
+42.0,Male,7.189417132146261,High,Mild,Yes,Current Smoker,High,Regularly,0
+36.0,Female,,Medium,Severe,No,Non-Smoker,,Regularly,0
+26.0,Male,0.5392794500564344,High,Moderate,,Former Smoker,None,Rarely,0
+24.0,Female,6.60589380167198,Medium,Severe,Yes,Non-Smoker,Low,Occasionally,1
+,Male,4.311542945138937,Low,Severe,No,Non-Smoker,Low,Regularly,1
+68.0,Female,0.7097665027629213,High,Mild,No,Non-Smoker,None,Rarely,0
+30.0,Female,7.587172972128464,High,,Yes,Current Smoker,None,Regularly,1
+23.0,Male,2.433546558128374,Low,,No,Non-Smoker,Moderate,Occasionally,1
+20.0,Female,9.139085888801526,High,Severe,No,Current Smoker,None,Rarely,1
+34.0,Female,3.2147976585189273,Medium,Severe,No,Non-Smoker,None,Regularly,0
+78.0,Male,2.7303612688158796,Low,Mild,No,Former Smoker,Low,Occasionally,1
+62.0,Male,5.104316824751779,Low,Mild,Yes,Former Smoker,Moderate,,1
+40.0,Female,6.364880474719961,Low,Moderate,Yes,Non-Smoker,None,,1
+41.0,Female,2.111730379991673,Low,Moderate,,Former Smoker,Low,Regularly,0
+57.0,Male,,Low,Mild,Yes,Non-Smoker,Moderate,Occasionally,1
+32.0,Female,1.1369169115606748,,Moderate,No,Former Smoker,Low,,1
+39.0,Male,2.5289238161081573,High,Moderate,No,Non-Smoker,Moderate,Never,0
+43.0,Male,1.1772620821317967,High,Mild,Yes,Former Smoker,Low,Regularly,0
+43.0,Female,1.111729307986117,High,Moderate,No,Current Smoker,None,,0
+37.0,Female,8.057190901911797,High,Severe,Yes,Non-Smoker,High,Never,0
+73.0,Female,8.367987376323864,High,Moderate,No,Former Smoker,None,Never,0
+54.0,Female,3.779057497894737,Medium,Severe,Yes,Non-Smoker,Low,Rarely,0
+38.0,Female,4.23547739857067,Medium,Mild,No,Current Smoker,High,Occasionally,0
+27.0,Female,,,Severe,No,Former Smoker,,Occasionally,1
+34.0,,7.371299808543277,Medium,Severe,No,Current Smoker,None,Rarely,0
+58.0,Female,0.8824423873850125,,,No,Non-Smoker,Moderate,Occasionally,0
+26.0,Female,5.079521357843859,Low,Moderate,No,Current Smoker,Moderate,Never,0
+33.0,Male,5.343003078655857,Medium,Mild,No,Non-Smoker,Moderate,Occasionally,0
+58.0,Male,3.8405384068308352,,Severe,Yes,Former Smoker,Moderate,,0
+,Male,1.8943652488296139,Medium,Mild,,Current Smoker,Moderate,Never,1
+60.0,,9.418029573308388,Medium,Moderate,No,Former Smoker,Moderate,Occasionally,1
+41.0,Female,9.837491835740005,Medium,Severe,Yes,Current Smoker,Moderate,Never,0
+49.0,Female,3.877597350136331,Medium,Moderate,No,Non-Smoker,Low,Rarely,0
+41.0,Male,0.7203000173826759,Medium,Moderate,Yes,Former Smoker,None,Regularly,1
+59.0,Female,4.887697498250007,High,Mild,,Non-Smoker,High,Regularly,0
+65.0,Female,5.1563880903961445,Medium,Severe,Yes,Former Smoker,,Regularly,0
+28.0,Male,,Medium,Severe,,Current Smoker,,Occasionally,0
+23.0,Female,5.889066991744239,Medium,Severe,No,Non-Smoker,,Regularly,1
+71.0,Female,3.417221282207627,High,Severe,No,Current Smoker,Low,Occasionally,0
+,,7.7373091836003605,Low,Severe,Yes,Non-Smoker,None,Never,1
+54.0,Male,3.1222388950353355,Low,Severe,,Current Smoker,,Never,0
+51.0,Female,2.0163306770865925,Medium,Mild,Yes,Former Smoker,None,Rarely,0
+75.0,Male,1.7089555506733913,High,Mild,Yes,Non-Smoker,Moderate,,0
+20.0,Male,5.015731506578382,Medium,Moderate,Yes,Former Smoker,High,Regularly,0
+36.0,,0.7215788924575967,Medium,Severe,No,Former Smoker,High,,0
+35.0,Male,9.273007178149237,Medium,Moderate,No,Former Smoker,High,Regularly,1
+70.0,Female,4.235414900296208,Low,Severe,No,Non-Smoker,Moderate,Occasionally,1
+45.0,Female,3.783967759908026,High,Moderate,Yes,Former Smoker,None,Regularly,0
+79.0,Female,2.5271235983785916,,Severe,Yes,Former Smoker,High,Regularly,1
+21.0,Male,1.5557705267946935,High,Moderate,No,Former Smoker,Moderate,Occasionally,0
+34.0,Male,,High,Moderate,Yes,Non-Smoker,High,Occasionally,1
+42.0,Male,9.976821223207285,Low,,No,Non-Smoker,None,Occasionally,0
+50.0,,8.821142386200462,Low,Mild,Yes,Former Smoker,Low,Regularly,0
+57.0,Female,1.4660723473613384,Low,Severe,Yes,,High,Never,0
+74.0,Male,8.581895287687622,High,,No,Current Smoker,None,Never,1
+25.0,Female,,Low,Severe,Yes,Current Smoker,High,Rarely,1
+33.0,Male,7.999192206916763,Low,Mild,Yes,Former Smoker,Moderate,Rarely,1
+31.0,Female,5.463700780103976,Low,Severe,Yes,Former Smoker,,Regularly,1
+63.0,Female,8.308074508756427,High,Severe,Yes,Former Smoker,,Regularly,1
+49.0,Female,8.622273037336031,Low,,Yes,Current Smoker,High,Rarely,0
+78.0,Female,6.886186889774962,,,Yes,Non-Smoker,High,Rarely,1
+35.0,Male,9.929345592364072,Low,Moderate,No,Former Smoker,Low,Occasionally,0
+21.0,Female,3.620390355757381,Low,Severe,Yes,Former Smoker,High,Rarely,1
+72.0,Female,3.5669973420809558,High,Mild,Yes,Non-Smoker,Moderate,Never,1
+49.0,Male,,Medium,Mild,Yes,Non-Smoker,None,Occasionally,0
+66.0,Male,0.5270939149421732,Medium,Moderate,,Former Smoker,Moderate,Occasionally,0
+21.0,Male,0.5274194165611121,Low,,,Current Smoker,,Rarely,0
+48.0,Female,8.896173617579176,High,Severe,No,Non-Smoker,Moderate,Regularly,1
+76.0,,5.749336758034615,Low,Severe,No,Current Smoker,,Occasionally,0
+45.0,Female,3.650975802160112,Medium,Mild,Yes,Non-Smoker,Low,Occasionally,0
+59.0,Male,9.773886183910031,High,,No,Non-Smoker,Moderate,Never,0
+42.0,,6.000406002058911,High,Severe,No,Current Smoker,Moderate,Regularly,1
+57.0,Male,0.6872039220410511,High,Severe,No,Former Smoker,High,Occasionally,0
+54.0,,2.60094124364165,Medium,Mild,No,Former Smoker,None,Rarely,1
+,Male,8.064700015754521,Medium,Moderate,No,,,Regularly,0
+39.0,Male,7.6170904399848,Medium,,Yes,Former Smoker,,Rarely,1
+37.0,,8.411096671191105,Low,Severe,Yes,Current Smoker,None,Occasionally,0
+35.0,Female,5.091668572813041,Low,Moderate,No,Former Smoker,None,Never,0
+40.0,Male,8.256857193793653,High,Mild,No,Former Smoker,Low,Rarely,1
+30.0,Male,0.8461480154376786,Low,Severe,No,Non-Smoker,Moderate,Occasionally,0
+54.0,Female,,Medium,Mild,No,Current Smoker,None,Regularly,1
+35.0,Male,3.3686608685600294,Medium,Severe,No,Former Smoker,None,Never,0
+40.0,Female,1.0203286639816416,Medium,Moderate,No,Former Smoker,Low,Occasionally,1
+60.0,Male,,,,Yes,Former Smoker,Low,,0
+66.0,Female,3.214259661326281,High,Moderate,No,Non-Smoker,High,Regularly,0
+73.0,Female,7.892743462641849,High,Severe,Yes,Current Smoker,High,,1
+59.0,Male,,High,Mild,No,Former Smoker,None,Rarely,0
+43.0,,8.935277701931426,Medium,Mild,Yes,Current Smoker,High,Regularly,1
+54.0,Male,3.4576071400452832,High,Moderate,Yes,Non-Smoker,Low,Rarely,0
+48.0,Female,0.7999524493975945,Low,,,Current Smoker,High,Occasionally,1
+23.0,Female,7.093929888806248,,Moderate,Yes,Former Smoker,,Rarely,0
+30.0,Female,4.990666540732159,High,Mild,No,Current Smoker,None,Regularly,0
+62.0,Female,8.85211399548467,,Mild,No,Former Smoker,Low,Rarely,0
+65.0,Male,3.274922707703166,Medium,Severe,No,Former Smoker,High,Rarely,0
+29.0,Male,,Low,Severe,Yes,Current Smoker,,Rarely,0
+40.0,Male,4.487427508886,Low,Severe,No,Current Smoker,,Occasionally,1
+29.0,Female,5.30173808887964,Medium,,Yes,Former Smoker,Low,Regularly,0
+62.0,Female,3.5453883001998174,Medium,Moderate,No,Non-Smoker,None,Rarely,0
+24.0,Male,3.8230265996241806,Medium,,No,,Moderate,Never,0
+51.0,Female,6.292661610842205,Medium,Moderate,No,Current Smoker,,Regularly,0
+36.0,Female,8.224871926020525,High,Mild,No,Former Smoker,,Rarely,1
+79.0,Female,4.384722709793097,Low,Moderate,,Non-Smoker,Low,Occasionally,0
+29.0,Female,1.30863091964331,Low,Severe,Yes,Former Smoker,High,Regularly,0
+61.0,Female,3.1402515480403994,High,Mild,Yes,Former Smoker,Moderate,Regularly,0
+71.0,Male,1.7871825781212272,,Mild,Yes,Former Smoker,Low,,0
+28.0,Male,7.817109824357535,Low,Moderate,No,Current Smoker,Moderate,Rarely,0
+55.0,Female,6.45627528590325,High,Mild,Yes,Current Smoker,None,Rarely,1
+62.0,Male,5.859805525901551,Low,,Yes,Non-Smoker,None,Regularly,1
+75.0,Male,5.969318977844066,High,Mild,Yes,Current Smoker,,Occasionally,1
+51.0,,9.570825588016204,High,Mild,No,Current Smoker,None,Regularly,1
+39.0,Male,3.9471924049518354,,Moderate,No,Non-Smoker,Low,Rarely,0
+55.0,Male,1.166707628284533,Medium,,No,Non-Smoker,Low,Never,0
+71.0,Male,3.194950020310153,Low,Severe,No,Former Smoker,None,Rarely,1
+71.0,Female,6.291136813430212,Medium,Severe,Yes,Non-Smoker,Low,Rarely,0
+22.0,,2.605680784651669,High,Severe,Yes,Current Smoker,Moderate,Rarely,0
+53.0,,,Medium,Severe,,Current Smoker,,Never,1
+48.0,Female,5.903783689599876,,Severe,No,Former Smoker,None,,0
+47.0,,9.473751489320561,High,Moderate,No,Non-Smoker,High,Occasionally,1
+62.0,Female,5.355008245240795,Medium,Moderate,Yes,Current Smoker,Low,Rarely,0
+74.0,Male,5.1183520220545455,Medium,Severe,No,Current Smoker,High,Occasionally,0
+49.0,Male,1.6098183882986687,High,Severe,Yes,Former Smoker,High,,1
+69.0,Female,6.00003736930501,,Mild,No,Current Smoker,Low,Occasionally,0
+47.0,Female,1.5192329065874457,Low,Severe,Yes,Former Smoker,Low,Rarely,0
+30.0,Female,4.993174519917369,Medium,Moderate,No,Non-Smoker,High,,0
+62.0,Male,1.9541988245733113,Low,Moderate,Yes,Non-Smoker,Moderate,Regularly,1
+44.0,Female,9.397321239624405,Medium,Severe,,Non-Smoker,Moderate,Regularly,0
+74.0,Male,9.343999016544986,High,Severe,,Former Smoker,Low,Never,1
+,Female,,Medium,Mild,Yes,Non-Smoker,None,Rarely,1
+78.0,Female,7.849851091702605,Medium,Moderate,Yes,Non-Smoker,,Never,0
+44.0,Female,0.5579076551024486,Low,Severe,Yes,Non-Smoker,High,,1
+58.0,Male,4.8932146966442,Low,Moderate,No,Non-Smoker,None,Occasionally,1
+54.0,Male,5.7293951060111485,Low,Severe,Yes,Non-Smoker,High,Rarely,0
+64.0,Male,8.676708860306023,,Mild,No,Former Smoker,Moderate,Occasionally,0
+,Female,4.834196705712233,Low,Moderate,Yes,Former Smoker,Low,Regularly,0
+61.0,Female,2.579751323071743,Medium,Severe,No,Non-Smoker,Moderate,Rarely,1
+72.0,Male,4.840988190033952,High,Mild,Yes,Current Smoker,None,Never,1
+38.0,Male,2.2324447122721054,High,Mild,No,Current Smoker,High,Occasionally,0
+,Female,8.880001154756522,High,Severe,,Current Smoker,Low,Never,0
+75.0,,1.6867246426296265,High,Mild,Yes,Non-Smoker,Low,Occasionally,0
+,Female,3.598831119605877,High,Mild,,Former Smoker,Moderate,Never,1
+76.0,Female,2.75388242520001,High,Moderate,No,Former Smoker,Moderate,Never,1
+26.0,Male,8.308299786704783,Low,Mild,Yes,Current Smoker,High,Occasionally,0
+21.0,,7.706146618900252,Medium,Moderate,Yes,Non-Smoker,Moderate,Regularly,0
+27.0,,3.042903060907425,High,Moderate,No,Current Smoker,None,Regularly,1
+47.0,Male,5.009440141481448,High,Moderate,No,Current Smoker,,Regularly,0
+57.0,Male,6.405001652111028,High,Mild,Yes,Non-Smoker,Low,Never,1
+78.0,Male,8.34911491824619,Medium,Severe,Yes,,None,Regularly,1
+25.0,Male,1.2749444121788502,High,Moderate,Yes,Non-Smoker,High,Rarely,0
+31.0,Female,8.979147065904574,,Mild,,Current Smoker,High,,1
+75.0,Female,6.672290257539428,Medium,Mild,No,,,Regularly,0
+54.0,Male,1.9988557244676826,Medium,,Yes,Non-Smoker,None,,1
+40.0,Female,5.341912194203138,Low,Mild,Yes,Non-Smoker,Low,Occasionally,1
+75.0,,7.403263340996741,Low,Moderate,Yes,Non-Smoker,None,Occasionally,1
+67.0,Male,6.358305995144879,Low,Severe,No,Former Smoker,None,Regularly,1
+78.0,Female,1.1272139374008523,High,Moderate,,Former Smoker,None,Regularly,0
+48.0,Female,1.1813987745582575,Medium,Severe,No,Non-Smoker,Moderate,Never,1
+25.0,Male,4.653806713861079,Medium,Moderate,No,Current Smoker,Moderate,Regularly,1
+56.0,Male,,Low,Mild,No,Non-Smoker,Moderate,Regularly,1
+59.0,Female,8.977723399494977,,Mild,Yes,Non-Smoker,None,Never,0
+50.0,Male,,High,Moderate,,Non-Smoker,High,Occasionally,0
+28.0,Female,8.658909824034497,High,Severe,No,Non-Smoker,None,Never,0
+23.0,Male,4.36027883347967,High,Mild,,Non-Smoker,None,Rarely,1
+,Male,7.436743292941839,Low,,No,Former Smoker,High,Occasionally,1
+41.0,Male,,Medium,Mild,,Non-Smoker,High,Never,0
+69.0,Female,3.4067375632767307,High,Severe,No,Former Smoker,,Rarely,0
+72.0,Female,3.2100457546326604,Low,Moderate,No,Former Smoker,None,Rarely,1
+73.0,Male,1.9289956164930293,High,,,Non-Smoker,High,Occasionally,0
+77.0,,6.499850104035354,Low,Mild,No,Non-Smoker,Low,Regularly,1
+,Male,2.53615489280617,Medium,Moderate,No,,None,Occasionally,0
+42.0,Female,8.035449373354938,Low,Moderate,No,Non-Smoker,None,Occasionally,1
+34.0,Male,9.870555936164957,Medium,Moderate,,Current Smoker,High,,0
+41.0,Female,2.486594754726465,,Severe,Yes,,Moderate,Rarely,0
+31.0,Male,9.426979661699985,High,Severe,Yes,Current Smoker,None,Regularly,1
+38.0,Female,9.330786668846295,Medium,Mild,Yes,Current Smoker,Moderate,Rarely,1
+78.0,Male,2.847954191028034,Medium,Mild,Yes,Non-Smoker,Low,Regularly,0
+72.0,Male,9.808156901611456,Medium,Severe,Yes,Non-Smoker,High,Regularly,0
+21.0,Male,5.1911004500263,Medium,Severe,Yes,Current Smoker,Low,Never,0
+30.0,Female,4.375571144479014,,Severe,Yes,,Moderate,Never,0
+77.0,Female,2.2212480377888024,Medium,Mild,Yes,Non-Smoker,Moderate,Rarely,1
+69.0,Male,,Low,Severe,No,Former Smoker,None,Rarely,0
+73.0,Male,7.370821578135831,High,,Yes,Non-Smoker,High,,1
+66.0,Male,3.3569816882216874,High,Mild,Yes,Current Smoker,,Rarely,0
+21.0,Male,2.0121298510474763,High,Severe,Yes,Former Smoker,Low,Occasionally,0
+34.0,Female,7.002318646205248,,Mild,Yes,Current Smoker,Moderate,Never,1
+,,1.394202591585608,Low,Moderate,No,Current Smoker,Low,Occasionally,0
+65.0,Female,8.030388996750041,Low,,Yes,Non-Smoker,Moderate,Occasionally,1
+73.0,Male,5.25652150169772,Medium,Moderate,Yes,Non-Smoker,High,Occasionally,1
+23.0,Female,,Low,Moderate,No,Former Smoker,Low,Never,1
+38.0,Male,8.722028959648483,Medium,Moderate,Yes,Current Smoker,Low,Regularly,0
+61.0,Female,,Medium,,Yes,Former Smoker,Low,Never,0
+43.0,Male,8.948891975252005,Low,Severe,No,Non-Smoker,Low,,0
+48.0,Male,,,Moderate,Yes,Non-Smoker,Moderate,Rarely,1
+68.0,Female,2.890564456606355,Medium,Mild,No,Former Smoker,Low,Never,0
+50.0,Male,1.214853591813288,Low,Moderate,Yes,Former Smoker,None,Rarely,1
+43.0,Female,4.547139468724886,Medium,Moderate,No,Former Smoker,High,Never,1
+53.0,Female,4.182665472228727,Low,Mild,,Non-Smoker,High,Regularly,0
+22.0,Male,6.7408960232483714,Medium,Moderate,Yes,Current Smoker,High,Regularly,0
+,Female,7.387611664477405,Low,Mild,No,Former Smoker,None,Never,0
+69.0,Male,8.016111161769405,Low,Mild,No,Non-Smoker,None,Regularly,1
+,Male,2.099493735957987,Low,Severe,No,Non-Smoker,Moderate,Occasionally,1
+40.0,Female,7.868524806813412,High,Moderate,No,Current Smoker,None,Never,1
+43.0,,7.785884463327717,Medium,Moderate,No,Current Smoker,Low,Occasionally,0
+23.0,Female,5.468686484401979,Medium,Mild,Yes,Current Smoker,High,Occasionally,0
+32.0,Male,1.9726093174907002,Medium,Moderate,No,Non-Smoker,,Occasionally,1
+,,1.897879912894921,High,Mild,Yes,Former Smoker,Low,Regularly,1
+38.0,Female,7.0662141282528985,High,Mild,Yes,Non-Smoker,None,Regularly,0
+33.0,,,,Moderate,No,Non-Smoker,Low,Occasionally,0
+41.0,Male,1.365988811696719,Medium,Moderate,Yes,Non-Smoker,Low,Rarely,0
+38.0,Male,4.271485360342949,High,Moderate,Yes,Current Smoker,Moderate,Regularly,1
+42.0,Male,3.4499672281622122,Low,Mild,No,,High,Occasionally,0
+72.0,Female,8.057430037642739,Low,Moderate,No,Non-Smoker,Low,Rarely,0
+36.0,Female,2.1777451079617336,High,Mild,No,Former Smoker,Moderate,Rarely,0
+76.0,Male,9.219300941995018,Low,Severe,Yes,Former Smoker,Low,Occasionally,1
+,Female,7.576351010131707,,,Yes,,High,Occasionally,1
+,Female,4.841196297749209,Low,Severe,Yes,Current Smoker,None,Rarely,0
+52.0,Female,7.6614827453574454,Medium,Severe,Yes,Former Smoker,None,Occasionally,1
+64.0,Male,6.771533345980972,Low,Severe,No,Current Smoker,Moderate,Rarely,0
+62.0,Female,4.980321796844967,Medium,Severe,No,Current Smoker,None,Regularly,1
+79.0,Female,3.0985177231001493,Medium,Moderate,Yes,Former Smoker,Low,Occasionally,0
+28.0,Female,9.47149507957602,Low,Moderate,,Former Smoker,None,Regularly,0
+26.0,Female,,,Mild,Yes,Former Smoker,Low,Rarely,0
+,Male,3.9212476403879912,Medium,Severe,No,,Low,Never,0
+25.0,Male,3.3779530053361513,Low,Moderate,,Current Smoker,High,,1
+30.0,Male,6.493936419219816,Medium,Moderate,Yes,Former Smoker,None,Regularly,1
+27.0,Female,6.595547900208366,High,Severe,,Non-Smoker,Low,Never,0
+40.0,Female,0.5797605996606359,High,Severe,No,Current Smoker,Moderate,Occasionally,1
+24.0,Male,7.90561121784045,Medium,Severe,No,Former Smoker,High,Rarely,1
+76.0,Male,1.9760116985858416,Low,Severe,Yes,Non-Smoker,None,Occasionally,0
+30.0,Female,7.305415103141883,Medium,Moderate,No,,Low,Never,1
+76.0,Male,2.9878023255467454,High,Mild,Yes,Current Smoker,High,Rarely,1
+22.0,Male,2.701775279489244,Low,Moderate,Yes,Non-Smoker,None,Occasionally,0
+26.0,Male,3.695269305021823,,Mild,Yes,Former Smoker,High,Rarely,0
+35.0,,0.839198356877598,High,Moderate,,,Moderate,Occasionally,1
+48.0,Female,8.483584688844742,High,Severe,,Current Smoker,Moderate,,1
+66.0,Male,,Low,Mild,No,,Low,Occasionally,0
+51.0,Female,2.171287014866645,Low,Moderate,No,Current Smoker,Moderate,Rarely,1
+,Female,6.678888941207505,High,Severe,,Former Smoker,Moderate,Occasionally,0
+48.0,Male,3.0652910083728426,High,Mild,No,Current Smoker,High,Rarely,0
+57.0,Female,6.901992217674293,High,Moderate,Yes,Non-Smoker,Moderate,Never,0
+76.0,Female,1.2725007709749296,Medium,Severe,Yes,Non-Smoker,Low,Occasionally,1
+71.0,Female,7.934045717157617,Medium,Moderate,No,Current Smoker,,Rarely,1
+76.0,Female,8.410902523296995,High,Moderate,No,Current Smoker,Moderate,Never,0
+70.0,Female,,High,Mild,No,Former Smoker,Low,Occasionally,0
+46.0,Female,7.61591063953125,Medium,Moderate,Yes,Former Smoker,High,Never,1
+41.0,Female,7.90547028369333,High,Moderate,No,Current Smoker,None,Regularly,1
+59.0,Male,3.498339672370766,Medium,Moderate,No,Non-Smoker,,Rarely,0
+77.0,Female,6.055669362806212,Medium,Mild,Yes,Non-Smoker,Moderate,Regularly,1
+20.0,Female,7.123714343966468,High,Moderate,Yes,Former Smoker,Moderate,Regularly,1
+23.0,Male,7.991637599410765,High,Mild,No,Current Smoker,None,Rarely,0
+21.0,Male,7.011987664675724,Medium,Severe,No,Non-Smoker,None,Occasionally,0
+,Male,9.086596234240405,High,Mild,Yes,Current Smoker,,Never,0
+64.0,,5.101020166902657,,Severe,,Non-Smoker,,Occasionally,0
+78.0,Male,,High,Mild,No,Former Smoker,,Occasionally,0
+53.0,Male,2.8396440341723017,Medium,Moderate,,Non-Smoker,High,Never,1
+31.0,Female,2.8833840435387925,High,Moderate,Yes,,Moderate,Rarely,1
+56.0,Male,5.155489090341968,High,Moderate,Yes,Non-Smoker,Moderate,,1
+63.0,Female,7.921160198952597,High,Severe,No,Non-Smoker,Low,Never,1
+58.0,Female,1.1214474166048247,High,Mild,Yes,Former Smoker,Moderate,Rarely,1
+39.0,Male,6.438490073767456,High,,Yes,Former Smoker,None,Rarely,0
+62.0,Male,6.803108684544498,Medium,Moderate,Yes,Current Smoker,Moderate,,1
+74.0,Male,5.736546856771965,Medium,,Yes,Former Smoker,Moderate,Rarely,0
+,Male,6.763738587969011,Low,Moderate,Yes,Current Smoker,Low,Regularly,0
+40.0,Male,2.8651315455122623,High,Moderate,No,Former Smoker,High,Occasionally,0
+64.0,Female,1.8115927593382493,High,Severe,No,Non-Smoker,Low,Rarely,0
+44.0,Male,0.652824483959842,Medium,Moderate,No,Former Smoker,Moderate,Occasionally,0
+,Female,8.14653372952855,Low,Mild,Yes,Former Smoker,,Regularly,0
+44.0,,6.341211092702437,Low,Severe,Yes,Non-Smoker,Moderate,Never,1
+43.0,Male,6.176092165615417,Medium,Mild,Yes,Former Smoker,Low,Occasionally,1
+29.0,Male,9.299107427440665,Low,Severe,No,Former Smoker,Low,Regularly,1
+65.0,Female,3.5249641839665156,High,Moderate,Yes,Non-Smoker,Moderate,Regularly,0
+35.0,Female,5.028488450678638,Medium,Mild,No,Non-Smoker,Low,Regularly,1
+32.0,Female,8.120201058726016,Low,Mild,No,Former Smoker,Low,Occasionally,1
+40.0,Female,1.814181412255734,Low,Moderate,Yes,Non-Smoker,Low,Rarely,0
+31.0,Male,2.1394230375363446,,,,Former Smoker,,,1
+57.0,Male,,Medium,Moderate,,Non-Smoker,None,Occasionally,1
+76.0,Female,4.382268790297001,High,Moderate,No,Former Smoker,,,1
+79.0,Male,1.3331187441796388,Low,Severe,No,Former Smoker,None,Occasionally,0
+,Female,3.0255099979058637,Low,,,Non-Smoker,None,Rarely,0
+36.0,Male,4.2901627535885725,Low,Mild,Yes,Non-Smoker,High,Rarely,0
+37.0,Female,6.577512094199717,High,Mild,No,Current Smoker,Low,Regularly,1
+72.0,Male,2.3095230165458256,High,Severe,Yes,Current Smoker,Low,,1
+32.0,Female,4.95575512993787,Low,Moderate,No,Former Smoker,Low,Regularly,0
+40.0,,9.99411996375395,Low,Mild,Yes,Former Smoker,None,Never,0
+21.0,,3.0677880249810436,Low,Moderate,No,Non-Smoker,Low,Never,0
+62.0,Male,0.7630120636236054,Low,Mild,Yes,Non-Smoker,High,,1
+65.0,Male,5.699343722482624,Low,Mild,No,Former Smoker,Low,Never,0
+56.0,Male,4.612514190619929,Medium,Severe,Yes,,,Rarely,1
+49.0,,9.72980771092794,Medium,,No,Non-Smoker,None,Never,1
+58.0,Female,3.3686376617151743,High,Mild,Yes,Non-Smoker,Low,Regularly,0
+41.0,Male,0.7610690980075172,Medium,Moderate,Yes,Current Smoker,None,Occasionally,1
+46.0,,4.706358356160304,High,Severe,,Former Smoker,,Rarely,1
+24.0,Female,9.880828949519138,Medium,Moderate,No,Non-Smoker,Moderate,Regularly,0
+26.0,Female,,Medium,Mild,Yes,Current Smoker,Moderate,Occasionally,1
+64.0,Male,7.126101140170489,Low,Severe,No,Current Smoker,Moderate,Never,0
+22.0,,2.6063215156836153,Low,Mild,Yes,Current Smoker,Low,,0
+77.0,Female,,Medium,Severe,No,Non-Smoker,Low,Rarely,0
+62.0,Female,7.11296420563181,High,Severe,No,Former Smoker,Moderate,,0
+,Male,7.077643885845192,Low,Severe,Yes,Former Smoker,Low,Occasionally,0
+38.0,Female,6.073312329206859,High,Mild,Yes,Current Smoker,Moderate,Occasionally,0
+30.0,Male,7.657491279958976,Medium,Mild,Yes,Former Smoker,Moderate,Occasionally,1
+39.0,Female,0.6468999879934322,,Moderate,No,Former Smoker,None,Regularly,1
+43.0,Female,,,Mild,,,None,Regularly,0
+53.0,Male,,High,Mild,No,Non-Smoker,Low,,0
+53.0,Male,5.6315556198555505,Low,Moderate,No,Current Smoker,,Regularly,0
+61.0,Male,,Medium,,No,Non-Smoker,,Rarely,0
+39.0,Male,8.856098837928892,High,Moderate,No,Former Smoker,None,Rarely,1
+47.0,Female,2.346512575896985,High,Moderate,No,Former Smoker,None,,0
+76.0,Male,5.426469293215817,Medium,Moderate,No,Former Smoker,None,Occasionally,1
+31.0,Male,4.050914038261917,Medium,Moderate,Yes,Former Smoker,Low,Regularly,0
+48.0,Female,3.665337856383629,High,Severe,No,Former Smoker,None,,0
+26.0,Male,0.7403901641553868,Medium,Moderate,Yes,Former Smoker,High,Never,1
+22.0,Male,3.0564862468933667,,Severe,,Current Smoker,Moderate,Regularly,0
+69.0,Male,1.8315267094292542,High,Severe,Yes,Former Smoker,None,Regularly,0
+22.0,Male,,Medium,Moderate,No,Former Smoker,,Never,0
+53.0,Female,1.5138750856020993,Medium,,No,Non-Smoker,,Regularly,1
+48.0,Female,,High,Severe,No,Non-Smoker,,Rarely,0
+63.0,Female,7.911769805466884,Medium,Moderate,,,None,Rarely,0
+50.0,Female,1.6553023344591131,Medium,Severe,Yes,Non-Smoker,None,Rarely,0
+68.0,Male,9.705196120865047,Medium,Severe,No,Former Smoker,,Never,1
+64.0,Female,5.157295366534929,Low,Mild,Yes,Non-Smoker,Low,Never,1
+42.0,Female,2.7716542224041842,,Severe,Yes,Former Smoker,High,Regularly,0
+66.0,Female,6.754940705191592,Low,Severe,Yes,Former Smoker,High,Rarely,0
+78.0,Female,2.1447039852156795,Medium,Mild,No,Former Smoker,None,Never,0
+69.0,Female,0.9008196699164044,,Mild,No,Former Smoker,None,Rarely,0
+40.0,Male,3.7820999253616683,Medium,Mild,Yes,Former Smoker,Moderate,Rarely,0
+39.0,Female,,High,Moderate,No,Former Smoker,None,Never,1
+41.0,Male,6.542610598025231,High,Mild,Yes,Former Smoker,,Rarely,0
+31.0,Male,,High,Severe,Yes,Former Smoker,None,Regularly,1
+57.0,Male,7.180734453514898,High,Moderate,Yes,Non-Smoker,None,Regularly,1
+20.0,Male,5.919456559289648,High,Mild,No,Former Smoker,High,Rarely,1
+,,7.701754802172266,High,Severe,Yes,Former Smoker,Moderate,,1
+69.0,Female,3.19830361765348,Low,Mild,No,Non-Smoker,Moderate,Regularly,0
+36.0,Male,2.68638873609067,Low,Severe,Yes,Current Smoker,High,Never,0
+34.0,Male,6.1952545440287,Low,Severe,No,Former Smoker,Moderate,Occasionally,0
+65.0,Male,1.3684972065138632,High,Mild,Yes,Current Smoker,Low,Rarely,0
+37.0,Male,7.1087620119709545,High,Severe,No,Current Smoker,High,Regularly,1
+61.0,Male,1.6133520636162029,,Severe,No,Former Smoker,Moderate,Rarely,0
+52.0,Male,2.118511663582411,,Severe,No,Former Smoker,,Rarely,1
+39.0,Male,0.6031397090111981,Low,Severe,No,Non-Smoker,Low,Never,1
+59.0,,4.678395538357505,Low,Moderate,Yes,Current Smoker,None,Occasionally,1
+51.0,Female,2.9103228007416795,,Mild,Yes,Current Smoker,Low,Rarely,0
+34.0,Female,2.8117422067392193,High,,Yes,Former Smoker,Low,Rarely,0
+,Female,4.229458986029847,High,Severe,Yes,Current Smoker,High,Regularly,1
+26.0,Female,2.9645951341097407,Medium,Severe,No,Non-Smoker,Moderate,Occasionally,1
+73.0,Female,0.9916601466331973,High,Mild,No,Former Smoker,None,,0
+36.0,Male,9.82382237905253,Medium,Severe,No,Non-Smoker,None,Never,1
+79.0,Female,3.0055595428297526,Medium,Moderate,No,Former Smoker,None,Rarely,0
+73.0,Male,8.885703118921214,Medium,Moderate,No,Non-Smoker,High,,0
+36.0,Female,9.261263721878848,Low,Moderate,Yes,Former Smoker,Moderate,Occasionally,1
+30.0,Male,0.5770831432710859,Low,Mild,No,Non-Smoker,,Occasionally,0
+78.0,Female,6.9942674062686425,Medium,Mild,Yes,Non-Smoker,None,Regularly,0
+45.0,Female,4.298955676767246,,Mild,Yes,Former Smoker,,Rarely,1
+51.0,Male,3.2579487415679007,High,Moderate,No,Current Smoker,High,Regularly,0
+,Male,0.9209438313059762,Medium,Moderate,Yes,Non-Smoker,Moderate,Regularly,0
+20.0,Male,1.6695777601146073,Medium,Mild,Yes,,High,Never,0
+39.0,Female,,Medium,Severe,Yes,Non-Smoker,High,Rarely,1
+21.0,Female,3.892029297088385,Low,Moderate,Yes,Current Smoker,,Rarely,1
+42.0,Female,2.7972033859113257,Medium,Mild,Yes,Former Smoker,Low,Regularly,1
+,,7.1974616480968905,Low,Mild,No,Non-Smoker,None,Rarely,1
+36.0,Male,3.466549894674204,Low,,No,Former Smoker,Low,Never,1
+67.0,Female,3.387102465114457,Medium,Severe,Yes,Current Smoker,High,Regularly,1
+,Male,5.359248717119936,,Severe,,Non-Smoker,Low,Never,0
+47.0,Male,7.908766445268277,High,Moderate,Yes,Former Smoker,,Rarely,1
+30.0,Female,5.14405075540172,Low,Moderate,Yes,Non-Smoker,None,,0
+55.0,Female,1.9938983913217645,High,Severe,No,,Moderate,,1
+33.0,,1.7637362448139482,High,Mild,Yes,Former Smoker,None,Never,1
+51.0,Male,7.455612196999245,High,Severe,,Current Smoker,Moderate,Occasionally,1
+22.0,Female,2.456363556586402,Low,Mild,Yes,Former Smoker,Low,Never,1
+63.0,Female,5.507287560318091,Low,,Yes,Non-Smoker,Moderate,Regularly,1
+68.0,Male,4.851963260651115,Low,Mild,Yes,Former Smoker,High,Never,0
+43.0,,8.51946801839017,High,Mild,No,Current Smoker,Low,Occasionally,0
+,Female,9.934496724829122,Low,Severe,Yes,Current Smoker,None,Occasionally,1
+41.0,Female,0.7693809799751801,High,Mild,No,Non-Smoker,,,0
+43.0,Male,2.876060660135543,High,Moderate,No,,Moderate,Regularly,1
+54.0,Female,5.302638680704734,Low,Severe,Yes,Current Smoker,Moderate,Never,1
+71.0,Male,4.2597089845326765,,Moderate,No,Current Smoker,High,Occasionally,0
+63.0,Female,2.897833177277332,Low,Moderate,Yes,Former Smoker,Moderate,Occasionally,1
+64.0,Female,5.879809000039726,Low,Severe,No,Current Smoker,Low,Regularly,1
+57.0,Male,4.712085648847275,High,Moderate,Yes,,None,Regularly,0
+54.0,Female,2.299828657113332,High,Mild,Yes,Former Smoker,None,,1
+30.0,Female,7.255717728327196,High,Moderate,Yes,Former Smoker,Moderate,Regularly,0
+59.0,Female,2.571485437945354,Low,Severe,Yes,Current Smoker,None,Regularly,0
+64.0,Female,1.0760929498936984,Medium,,Yes,Current Smoker,Low,Regularly,1
+71.0,Male,1.0552166442728068,High,,Yes,Current Smoker,None,Occasionally,1
+51.0,Male,9.384500171315338,Low,Mild,Yes,Non-Smoker,Low,Never,1
+37.0,Male,4.331265497234787,Low,Moderate,Yes,Former Smoker,Moderate,Occasionally,0
+59.0,Male,7.952204240561997,Low,Mild,Yes,Non-Smoker,Low,Never,0
+49.0,Female,1.1293590157062965,Low,Mild,No,Current Smoker,Moderate,Occasionally,1
+69.0,Female,7.94679465261897,Low,Mild,No,Non-Smoker,Moderate,Never,0
+52.0,Male,9.005509964624448,Low,Moderate,,,High,Regularly,0
+25.0,,4.908057518181203,High,Moderate,No,Non-Smoker,None,Never,0
+44.0,Male,3.566423431556105,Medium,Moderate,,Former Smoker,High,Never,0
+65.0,,6.463845749222185,Low,Mild,Yes,Former Smoker,High,Never,1
+48.0,Female,4.489837402011771,Medium,Severe,No,Current Smoker,None,Occasionally,1
+75.0,Female,3.8153538579351185,Medium,Severe,No,Former Smoker,Moderate,Regularly,0
+78.0,Female,4.995793512670264,High,Moderate,No,Current Smoker,High,Regularly,1
+68.0,,8.916415921891723,Low,Moderate,No,Current Smoker,High,Rarely,1
+60.0,Female,0.5716718146795907,Medium,Mild,Yes,,None,Occasionally,1
+77.0,Female,7.150668185795291,High,,Yes,Current Smoker,,Regularly,0
+59.0,Female,,High,Moderate,No,Non-Smoker,None,Rarely,1
+68.0,Male,6.101178263332949,,Moderate,No,Current Smoker,Low,Rarely,0
+53.0,Male,1.8069898749500972,High,Severe,,Current Smoker,None,Never,0
+51.0,,4.396862305074235,Low,Moderate,,,Low,Rarely,0
+20.0,Male,2.251573343442056,High,Mild,Yes,Current Smoker,High,Regularly,1
+26.0,Female,0.591802306304674,,Moderate,,Former Smoker,None,Occasionally,0
+29.0,Female,1.4126067042550736,Low,Moderate,No,Non-Smoker,None,,1
+69.0,Female,3.587247178185435,High,,Yes,Former Smoker,High,Rarely,0
+39.0,Male,8.586434402597238,High,Moderate,Yes,Non-Smoker,Low,Regularly,1
+62.0,Male,3.7453858934243063,Medium,Severe,No,Current Smoker,High,Occasionally,0
+63.0,Male,,Low,Mild,No,Former Smoker,None,Rarely,1
+43.0,Female,5.835617621071149,Low,,,Non-Smoker,None,Never,1
+30.0,Female,2.0618764499229534,Medium,Mild,Yes,Former Smoker,Low,Rarely,1
+,Female,8.523660026167766,Low,Moderate,,Current Smoker,High,Occasionally,0
+,Female,4.136640575997172,High,Severe,Yes,Non-Smoker,Low,Rarely,1
+54.0,Male,2.9084458935127895,Medium,Severe,Yes,,None,Rarely,0
+35.0,Male,5.029983049198326,High,Severe,No,Current Smoker,High,Occasionally,0
+25.0,,6.440377452270291,Medium,Mild,Yes,Non-Smoker,Low,Regularly,0
+29.0,Male,1.0481855923287677,High,Mild,Yes,Former Smoker,Low,Never,1
+57.0,Female,4.522106631075814,Low,Moderate,Yes,Non-Smoker,None,Occasionally,1
+79.0,Male,2.742399602834814,Low,Mild,Yes,Former Smoker,None,Regularly,1
+58.0,Male,4.804997018476905,High,,Yes,,Low,Rarely,0
+58.0,Male,1.158788162497527,High,Moderate,No,Current Smoker,Moderate,Rarely,1
+76.0,Female,6.655349548019714,High,Moderate,Yes,Non-Smoker,Moderate,,1
+63.0,Female,4.695652152940786,Low,Moderate,Yes,Current Smoker,Low,Regularly,1
+53.0,Male,9.3869442680299,High,Moderate,No,Former Smoker,High,Never,1
+57.0,Female,1.7539297982016628,High,Moderate,No,Former Smoker,,Occasionally,0
+40.0,Female,9.9509529394289,Medium,Mild,No,Former Smoker,None,Never,1
+,Male,5.88855366004091,High,Severe,Yes,Current Smoker,High,Occasionally,1
+25.0,Male,1.7870154201062791,,Moderate,Yes,Non-Smoker,Moderate,Never,0
+,Male,8.832731032253337,High,Mild,No,Current Smoker,None,Never,0
+76.0,Female,5.765291030761562,High,,No,Former Smoker,None,Occasionally,0
+21.0,Female,3.9801393239688663,Low,Mild,Yes,Non-Smoker,High,,1
+77.0,Male,7.02749115035644,Medium,Severe,No,,None,Never,1
+37.0,Male,4.291529700319847,Medium,Mild,No,Former Smoker,High,Occasionally,0
+62.0,Male,3.2843491161060787,Medium,Moderate,No,Former Smoker,Moderate,Regularly,0
+71.0,Male,3.01775103319336,Medium,Mild,Yes,Former Smoker,,Occasionally,0
+63.0,Male,3.4946657518390314,Medium,Moderate,Yes,Non-Smoker,None,Regularly,1
+68.0,Male,2.1226451572127267,,Severe,No,,None,Regularly,0
+,Female,3.4396556454141187,High,Severe,,Former Smoker,Low,Regularly,0
+61.0,Female,7.144633381239857,High,Mild,Yes,Former Smoker,None,Regularly,0
+34.0,Male,,High,Severe,No,Current Smoker,Moderate,Occasionally,0
+48.0,Female,6.7154498317938955,High,Mild,No,Former Smoker,Moderate,Never,0
+54.0,,4.583328905503612,Medium,Severe,Yes,Former Smoker,None,Rarely,1
+54.0,Female,3.562382951591997,High,Mild,No,Current Smoker,Moderate,Rarely,1
+51.0,Male,8.526594174850377,Low,Severe,No,Non-Smoker,,Never,1
+35.0,Male,9.74416275925335,High,Moderate,,Former Smoker,None,Never,0
+29.0,Female,0.7102688845999853,Medium,Mild,No,Former Smoker,,Occasionally,1
+56.0,Male,7.2794878855214975,Medium,,,,,Never,1
+29.0,Male,0.9397028633994212,High,Mild,No,Current Smoker,High,Regularly,1
+63.0,Female,2.9102162877689954,Medium,Moderate,Yes,Non-Smoker,Low,Regularly,0
+,Male,,High,Moderate,No,Non-Smoker,Low,Never,0
+72.0,Male,4.907219867230589,High,Severe,Yes,Current Smoker,Moderate,Occasionally,0
+64.0,Female,4.376013543788586,High,Moderate,,Non-Smoker,Low,Never,0
+47.0,Female,8.1540489965297,,Mild,No,Non-Smoker,High,Regularly,1
+74.0,Male,3.1535039864681695,Low,Mild,Yes,Former Smoker,Moderate,Regularly,1
+76.0,Female,0.8165020260780602,Medium,Severe,No,Current Smoker,,Occasionally,1
+44.0,Male,8.161946403236804,High,Severe,Yes,Current Smoker,Moderate,Regularly,0
+67.0,Female,7.879126590669946,Low,Mild,No,,Low,Regularly,1
+,Male,2.202484826647326,High,Severe,Yes,Former Smoker,Moderate,Never,1
+68.0,Female,4.614431041867924,Medium,Mild,Yes,Former Smoker,High,Occasionally,1
+53.0,Female,,Medium,Severe,No,Former Smoker,Low,Regularly,1
+58.0,Male,0.507471032072164,,,Yes,,Low,Occasionally,0
+20.0,Female,7.763065240912298,High,Moderate,,Current Smoker,Moderate,Never,1
+44.0,Female,6.886833557878575,High,,Yes,Current Smoker,Low,Never,1
+70.0,Female,3.1531164196783426,High,Severe,,Current Smoker,High,Regularly,1
+20.0,Male,9.295399626780943,Low,Mild,No,Non-Smoker,High,Occasionally,0
+28.0,Male,2.2296234348585977,Low,Moderate,No,,None,Occasionally,1
+28.0,Female,1.2156809804719753,High,Moderate,Yes,Former Smoker,None,Rarely,0
+32.0,Female,6.6063899140543185,Low,Mild,,Current Smoker,None,Regularly,1
+40.0,Male,6.992258621540871,Medium,Severe,Yes,Non-Smoker,None,,0
+45.0,Female,4.008692574187045,Medium,,,Current Smoker,Low,,1
+,Male,5.5275706264861055,,Severe,No,Current Smoker,High,Occasionally,1
+62.0,Female,3.213102523427713,Low,Severe,No,Non-Smoker,None,Occasionally,0
+61.0,Female,6.276676881422055,High,Mild,No,Non-Smoker,Moderate,Rarely,1
+46.0,Female,9.162100565847386,Medium,Mild,Yes,Non-Smoker,High,Rarely,1
+34.0,Male,9.659325723166281,Medium,Moderate,No,Non-Smoker,Moderate,Rarely,0
+74.0,Female,9.834076328627436,Medium,Mild,,,Low,,0
+50.0,Female,9.14312886654123,Low,Mild,No,Non-Smoker,Moderate,Never,0
+38.0,Female,3.4989858084017476,Medium,Mild,No,Current Smoker,High,Occasionally,1
+27.0,Male,4.114137401020338,Low,Moderate,Yes,Non-Smoker,Moderate,Never,0
+44.0,Female,9.683137005462804,Low,Mild,No,Former Smoker,None,,0
+65.0,Female,7.975203167331612,Low,Severe,No,,,Occasionally,1
+77.0,Male,5.912565840951812,Medium,Moderate,Yes,Former Smoker,Moderate,Occasionally,0
+45.0,Female,0.8079497063000038,,Severe,No,Former Smoker,High,Regularly,1
+62.0,Male,7.8292387077112195,Medium,Severe,Yes,Non-Smoker,High,Regularly,0
+26.0,Female,4.863228144315804,Low,Mild,Yes,Former Smoker,Low,Rarely,1
+,Male,1.8905381805080226,Medium,Severe,No,Non-Smoker,Low,Regularly,1
+40.0,Female,3.7891073252654497,Medium,Mild,Yes,Non-Smoker,Low,Rarely,0
+46.0,Female,1.5776894914938986,High,Moderate,No,Current Smoker,,Never,1
+,,2.4165251681758964,Low,Moderate,No,Current Smoker,High,Never,0
+56.0,Male,8.316978866972281,Low,Moderate,No,Non-Smoker,,Never,0
+29.0,Female,,Low,Mild,Yes,Non-Smoker,High,Never,1
+36.0,Female,8.814535510624992,Medium,Mild,Yes,Former Smoker,,Occasionally,0
+20.0,,9.076765049887129,Low,Mild,No,,Moderate,Never,1
+65.0,Female,9.111469649854719,High,Mild,,Non-Smoker,Low,Regularly,0
+55.0,Male,4.553706608475867,High,Severe,Yes,,Low,Rarely,1
+,,2.7009410962013103,Medium,Moderate,Yes,Former Smoker,High,Rarely,0
+46.0,,8.87693644875107,Medium,Moderate,Yes,Non-Smoker,Moderate,Regularly,0
+57.0,Male,8.355020765780285,Low,,Yes,Current Smoker,High,Rarely,1
+73.0,Female,4.045002253091732,,Mild,No,Non-Smoker,Low,Never,0
+32.0,Male,6.234578025423714,High,,Yes,Non-Smoker,Low,Occasionally,1
+55.0,Female,1.905816898756168,,Severe,No,Non-Smoker,Low,Rarely,0
+33.0,Male,1.6671012025157999,Medium,Moderate,No,Non-Smoker,Moderate,,0
+65.0,Male,0.870678236828983,High,Severe,No,Non-Smoker,Moderate,Occasionally,1
+39.0,Female,7.373198915984487,,Severe,Yes,Non-Smoker,Low,Rarely,0
+57.0,Female,,Low,Moderate,No,Former Smoker,Moderate,Occasionally,0
+35.0,,4.537997133468728,Low,Severe,No,,None,Rarely,0
+77.0,Female,3.8044795792702817,Medium,Mild,Yes,Non-Smoker,High,Never,1
+41.0,Female,1.778691629588519,,Severe,Yes,Current Smoker,Moderate,Never,0
+49.0,Female,0.8837880216023248,,Mild,Yes,Current Smoker,Moderate,Occasionally,1
+46.0,Female,1.0908832970750846,Low,Severe,,,Moderate,Regularly,0
+79.0,Female,7.2185107001938675,High,,Yes,Current Smoker,None,Never,1
+69.0,Male,3.946542997231424,Low,Mild,No,Non-Smoker,None,,1
+29.0,Female,2.901987092847518,Medium,Mild,Yes,Current Smoker,None,Occasionally,1
+51.0,Male,4.370081230053955,Low,Moderate,Yes,Former Smoker,High,Never,1
+26.0,Male,8.100870646307918,Medium,Severe,No,Current Smoker,Moderate,Occasionally,0
+60.0,Male,9.809043154738905,Low,Mild,No,Non-Smoker,Moderate,Never,1
+44.0,Male,7.345696727753116,Low,Mild,No,Current Smoker,Moderate,Rarely,1
+66.0,Male,2.903574625296443,Low,Severe,No,Non-Smoker,Moderate,Rarely,1
+60.0,Female,0.9685826296129285,High,Mild,Yes,,Low,Occasionally,0
+53.0,Male,5.454841391314158,Medium,Moderate,Yes,Non-Smoker,None,Never,0
+65.0,Female,0.9829749001828991,Low,Severe,,Current Smoker,Moderate,Never,1
+52.0,Female,5.6480323494174325,Low,Mild,Yes,Current Smoker,None,Never,1
+26.0,Female,5.281678762926345,,Moderate,,,Low,Regularly,0
+70.0,Female,7.752996436970213,Low,Mild,Yes,Non-Smoker,,Never,1
+41.0,Female,,,Moderate,No,Non-Smoker,None,Never,1
+51.0,Male,4.578044217876403,High,Severe,No,Non-Smoker,None,Regularly,0
+48.0,Male,6.433613303202545,High,Severe,No,Non-Smoker,Moderate,Never,1
+78.0,,8.407112806038736,High,Moderate,No,Current Smoker,Moderate,Rarely,1
+,,4.4363034046850185,Medium,Severe,Yes,Former Smoker,High,Rarely,0
+,Female,3.7638386001409785,Low,Severe,Yes,Non-Smoker,None,Never,1
+,Female,2.3053932331848004,High,Moderate,,Current Smoker,Low,Rarely,0
+72.0,Male,,High,,No,Former Smoker,None,Occasionally,0
+47.0,Male,1.7150926681143004,Medium,Mild,Yes,Current Smoker,High,Regularly,1
+25.0,,0.7198785342991841,Medium,Mild,No,Non-Smoker,High,Regularly,1
+55.0,Male,1.2676577368792232,High,Mild,Yes,Current Smoker,Moderate,Never,1
+61.0,Female,8.489716125998202,Low,Mild,No,Non-Smoker,None,Occasionally,1
+64.0,Female,2.2718647628549244,High,Moderate,No,Non-Smoker,Moderate,Never,1
+60.0,Female,9.685778726958661,High,Severe,No,Non-Smoker,High,Occasionally,1
+26.0,Female,2.28687034896767,Medium,Severe,,Non-Smoker,Low,Regularly,0
+42.0,Male,7.685568369378331,High,Mild,Yes,Non-Smoker,None,Rarely,0
+61.0,Male,7.338352879394908,Low,Mild,No,Former Smoker,Low,Rarely,0
+29.0,Female,0.9089527766608476,,Severe,No,,Moderate,,0
+45.0,Female,1.5467771055907649,,,,Former Smoker,None,Occasionally,1
+69.0,Male,9.922713559305903,Medium,Moderate,Yes,Current Smoker,None,,0
+55.0,Male,6.722940762664973,High,Severe,,Former Smoker,Low,,0
+29.0,Female,9.025004052186654,High,Moderate,Yes,Former Smoker,,Rarely,1
+,Male,7.459702570835595,,Moderate,Yes,Former Smoker,None,Rarely,0
+26.0,Male,1.1323676741135995,Low,,No,Non-Smoker,None,Rarely,1
+66.0,Male,8.796829474812178,High,Mild,No,Former Smoker,Moderate,Rarely,1
+78.0,Female,9.810721234186405,High,Mild,Yes,Former Smoker,Moderate,Rarely,0
+26.0,Female,9.56751193384338,Medium,,No,Non-Smoker,Moderate,Never,1
+28.0,Female,9.112297018366112,Medium,Mild,Yes,Current Smoker,None,Occasionally,1
+,Male,4.039702828228412,,Severe,No,Non-Smoker,Moderate,Occasionally,1
+54.0,Male,3.304591046108496,Medium,Severe,No,,Low,,0
+71.0,,6.735521772640418,High,Moderate,,Non-Smoker,,,1
+64.0,Male,4.587779749708488,High,,No,,High,Occasionally,0
+24.0,Male,9.48737784155875,Medium,Severe,,Current Smoker,Low,Rarely,1
+,Male,0.9395630333872651,High,Severe,Yes,Former Smoker,Low,Never,0
+39.0,Male,9.036271491264129,Medium,Moderate,Yes,Former Smoker,Low,Regularly,0
+26.0,Female,2.3283989581945868,High,Severe,Yes,Former Smoker,Moderate,Regularly,0
+75.0,Male,7.157280721007749,High,Severe,Yes,Current Smoker,None,Never,1
+28.0,Female,6.01045828000416,Medium,,No,Non-Smoker,Moderate,Regularly,1
+44.0,Female,3.620424538732037,Medium,Mild,Yes,Former Smoker,High,Occasionally,0
+,Male,8.495147240389521,Low,Moderate,,Current Smoker,Low,Never,0
+37.0,Female,9.066117865557613,High,Mild,Yes,Former Smoker,Low,Regularly,1
+27.0,Female,0.7861713941108673,Medium,Mild,No,Non-Smoker,None,Rarely,0
+28.0,Male,4.850318657803618,High,Mild,Yes,Non-Smoker,High,Never,0
+44.0,Male,2.229789171337306,,Severe,No,Former Smoker,None,,0
+73.0,Female,9.207590465829783,Low,Mild,,Current Smoker,High,Occasionally,1
+74.0,Female,,Medium,Severe,Yes,Non-Smoker,Moderate,Regularly,0
+58.0,Male,4.866109720390838,,Moderate,No,Former Smoker,None,Occasionally,1
+67.0,Female,9.771913221855508,Medium,Moderate,Yes,Non-Smoker,Low,Rarely,0
+44.0,Female,3.1842004757346842,High,Mild,No,,Moderate,Never,0
+64.0,Female,4.911878942173459,High,Severe,No,Current Smoker,None,,1
+48.0,Female,7.78321239532178,,Moderate,Yes,Non-Smoker,Low,Rarely,0
+27.0,Male,,High,Mild,Yes,Former Smoker,Moderate,Regularly,0
+,,2.3818652270106355,Low,Severe,Yes,Former Smoker,Moderate,,1
+47.0,Female,9.119410847791979,High,Moderate,Yes,,Low,Rarely,1
+56.0,Female,4.7007694809973115,High,Severe,Yes,Non-Smoker,Low,Never,1
+74.0,Female,7.7518958794462165,Medium,Mild,Yes,Former Smoker,Low,Never,0
+34.0,Male,,High,Moderate,No,Former Smoker,Low,Never,1
+77.0,Female,,Medium,Severe,Yes,Former Smoker,Low,Regularly,1
+36.0,,1.1582816098712587,Medium,,Yes,Former Smoker,Low,Occasionally,1
+52.0,Female,4.753514089836179,Low,Severe,Yes,Non-Smoker,Moderate,Rarely,1
+79.0,Male,6.510622146479778,Low,Moderate,Yes,Former Smoker,Low,,0
+62.0,Male,,Low,Mild,No,Former Smoker,Low,Rarely,1
+31.0,Female,1.6935985566465728,Medium,Mild,Yes,Current Smoker,Moderate,Never,0
+74.0,Female,1.929052868937435,Low,Moderate,No,Non-Smoker,None,,0
+66.0,Male,2.362779966403334,High,Mild,No,Current Smoker,Low,Rarely,0
+36.0,Male,7.5231683691718665,Medium,Mild,No,,Low,Regularly,0
+79.0,Male,,High,Severe,Yes,Current Smoker,None,Never,0
+31.0,Female,4.515074896686471,,Severe,,Current Smoker,High,Occasionally,0
+48.0,,7.796249175062286,Medium,Moderate,No,Former Smoker,None,Never,0
+44.0,Female,9.393495589962114,Medium,Mild,Yes,Former Smoker,None,Regularly,1
+30.0,Female,3.7823451547245703,High,Severe,,Former Smoker,None,Never,0
+,,5.448669982996964,Medium,Severe,No,Current Smoker,Moderate,Regularly,1
+66.0,Female,6.698233173465537,Low,Moderate,No,Former Smoker,Low,Never,0
+65.0,Male,2.957156092331358,,Mild,Yes,Non-Smoker,None,Regularly,1
+68.0,Female,6.203853851842852,Medium,Mild,Yes,Former Smoker,High,Occasionally,0
+28.0,Female,3.1078033609110256,High,,,Former Smoker,None,,1
+79.0,Male,9.876933242943384,,Severe,No,Non-Smoker,Low,Never,1
+49.0,Male,8.985244223536197,Low,Severe,No,Former Smoker,Moderate,Never,0
+61.0,Female,1.1124679510169901,Low,Mild,Yes,Former Smoker,None,Occasionally,1
+69.0,Female,9.982563162737632,High,Mild,No,Non-Smoker,High,Never,0
+68.0,Female,7.169909481122595,High,Moderate,No,Current Smoker,High,Occasionally,1
+26.0,Male,5.16132867242531,,Severe,,Former Smoker,,Regularly,0
+40.0,Female,2.625287368009249,Low,Mild,No,Current Smoker,High,Regularly,0
+73.0,Female,9.865239175501198,Medium,Mild,Yes,,Low,Rarely,0
+20.0,Female,,Medium,Severe,No,Former Smoker,None,Rarely,1
+40.0,Female,1.2711143545523473,High,Moderate,No,Current Smoker,Moderate,,1
+54.0,Male,6.203854921235754,Medium,Moderate,Yes,Non-Smoker,,,1
+48.0,Female,9.976076886111573,Medium,Severe,No,Current Smoker,,Occasionally,1
+51.0,Female,0.8935203841255062,High,Severe,No,Current Smoker,None,Regularly,0
+53.0,Male,0.6173243957253806,Low,,No,Former Smoker,High,Occasionally,0
+30.0,Male,8.25169821335108,,Mild,No,Current Smoker,,,1
+48.0,Male,4.5853032210821905,High,Mild,No,Former Smoker,None,Regularly,1
+67.0,,,High,Moderate,No,Current Smoker,High,Never,1
+65.0,Female,6.836927364542508,Low,Severe,,Current Smoker,Moderate,Never,1
+69.0,Male,6.335907282257174,Medium,Moderate,,,None,Rarely,0
+62.0,Female,7.955160079768829,,Moderate,Yes,Current Smoker,High,Regularly,1
+25.0,Male,8.34446638114331,,Severe,No,,Low,Regularly,1
+,Male,8.668096076349027,Medium,Moderate,No,Former Smoker,High,Regularly,1
+35.0,Female,3.8511120863619865,High,Moderate,No,Current Smoker,High,Never,1
+20.0,Female,1.9900091887040858,Low,Moderate,Yes,Non-Smoker,Moderate,Regularly,0
+76.0,Female,1.5727368523096805,Medium,Severe,Yes,Non-Smoker,None,Never,0
+22.0,Female,6.94614929856506,High,Moderate,No,Current Smoker,Low,Rarely,1
+64.0,Male,5.120714038621378,High,Moderate,No,Current Smoker,None,Never,0
+65.0,Female,1.4623481460041088,High,Mild,Yes,Former Smoker,Moderate,Regularly,0
+60.0,Male,3.5477569570911096,High,Moderate,Yes,,None,Regularly,1
+76.0,Male,6.99042149606434,Low,Moderate,No,Current Smoker,Moderate,Never,1
+71.0,Male,2.26681064438614,High,,Yes,Former Smoker,,Never,0
+71.0,Male,8.161896510528834,Medium,Moderate,,Former Smoker,None,Rarely,0
+58.0,Female,,Low,Mild,No,Former Smoker,Low,Never,1
+65.0,Male,9.192022498604404,Medium,Mild,Yes,,None,Occasionally,1
+57.0,Female,4.7941359916691795,Low,Severe,Yes,Former Smoker,Low,Regularly,1
+77.0,Female,4.631655587659838,High,Severe,No,Former Smoker,,Regularly,0
+69.0,,5.928219089169333,Medium,Moderate,Yes,Non-Smoker,Low,Never,1
+36.0,Female,7.909186369847083,,Severe,No,,Low,Rarely,1
+45.0,Female,1.0521752906771196,High,Moderate,No,Non-Smoker,Moderate,Regularly,1
+56.0,Female,8.652071849725534,Low,Severe,No,Former Smoker,None,Regularly,1
+62.0,Female,3.5617036877761756,Medium,Moderate,Yes,Current Smoker,High,Never,0
+74.0,Female,5.539707529608924,Low,Moderate,Yes,Former Smoker,Low,Regularly,0
+77.0,Male,,Low,Moderate,No,Non-Smoker,None,Occasionally,1
+23.0,Male,9.056243829293638,High,,,Former Smoker,,Rarely,1
+73.0,Female,9.430486941612985,Medium,Mild,Yes,Current Smoker,Moderate,Occasionally,1
+63.0,Female,0.8361875359238532,High,Severe,Yes,Former Smoker,None,Occasionally,0
+31.0,Female,2.1931175503071643,Low,,No,Former Smoker,High,Regularly,0
+42.0,,3.6451870156625223,Medium,Severe,No,Former Smoker,High,Occasionally,0
+,Male,1.7722046750567662,High,Mild,No,Non-Smoker,None,Never,1
+69.0,Female,2.831494406347857,Low,Mild,No,Current Smoker,High,,1
+23.0,Female,8.503881656989869,High,Mild,,Former Smoker,,Regularly,1
+79.0,Female,7.749501522465679,Low,Moderate,,Current Smoker,Moderate,Regularly,1
+72.0,Female,3.995691653395227,Low,Mild,No,Former Smoker,Low,,0
+20.0,,9.122637054680496,Medium,Severe,Yes,Former Smoker,High,Occasionally,1
+51.0,Female,1.7401926996440786,Low,Mild,No,Non-Smoker,High,Never,0
+55.0,Female,9.605855485193407,Medium,Severe,Yes,Current Smoker,Moderate,Occasionally,1
+45.0,Female,0.752216233534001,,Severe,Yes,Non-Smoker,,Never,0
+51.0,Male,,Medium,Mild,Yes,Former Smoker,,,1
+20.0,Female,3.7418926159288137,Low,Severe,Yes,,None,Never,1
+50.0,Male,0.5887623345604517,Low,Moderate,Yes,Non-Smoker,Low,Rarely,1
+75.0,Female,8.314529899891088,Medium,Mild,Yes,Non-Smoker,High,Regularly,1
+41.0,Female,,Medium,Moderate,No,Current Smoker,Low,Never,1
+66.0,Female,1.6755229771532925,Medium,Severe,No,Non-Smoker,Low,Occasionally,0
+73.0,Female,8.83938950483543,High,Moderate,No,,Moderate,Rarely,0
+24.0,Male,3.016496749601112,Medium,,No,Current Smoker,High,Rarely,1
+64.0,Male,,High,Moderate,Yes,Current Smoker,None,Regularly,1
+,Male,4.28306749692716,Medium,Mild,Yes,Former Smoker,Moderate,Occasionally,1
+69.0,,3.665670168652259,Low,Severe,Yes,,None,Rarely,0
+36.0,Male,0.6598655630805477,Low,Mild,No,Former Smoker,Low,Regularly,0
+28.0,Male,8.565874847329681,,Mild,Yes,Non-Smoker,Low,Occasionally,1
+33.0,Female,2.964336359007364,Low,Moderate,,Non-Smoker,Low,Rarely,0
+20.0,Female,3.2225962580255207,Low,Severe,Yes,Non-Smoker,None,Never,0
+22.0,Female,2.6885658117303786,High,,Yes,Current Smoker,Low,Occasionally,0
+76.0,Female,1.6623632543436646,Low,Mild,Yes,Former Smoker,Low,Regularly,0
+65.0,Female,3.7188248014729175,Medium,Moderate,No,Non-Smoker,High,Regularly,1
+42.0,Female,8.30946816090219,Medium,Moderate,Yes,Former Smoker,None,Never,0
+67.0,Female,5.229513482720423,High,Mild,Yes,Current Smoker,None,Never,1
+29.0,,3.578056487817099,High,Mild,Yes,Non-Smoker,High,Rarely,1
+79.0,Male,5.597892427724669,High,Mild,No,Non-Smoker,High,Never,0
+79.0,Male,6.519934989546179,High,Mild,Yes,Non-Smoker,Moderate,Regularly,0
+,Female,3.130783455090855,High,Severe,No,Non-Smoker,Moderate,Occasionally,0
+29.0,Female,,High,Moderate,Yes,Former Smoker,Low,Never,0
+58.0,,1.4329896803451478,,Moderate,No,Current Smoker,High,Regularly,0
+54.0,Female,2.706275310413754,High,Severe,Yes,Non-Smoker,Moderate,,0
+60.0,Male,8.160405144463716,Medium,Severe,No,Non-Smoker,,,0
+66.0,Female,1.6073591018417737,,Severe,Yes,Non-Smoker,None,Regularly,0
+64.0,Male,4.651811287897611,High,Severe,,Current Smoker,High,,0
+48.0,Male,0.7501492856001261,Medium,Mild,No,Non-Smoker,,Regularly,0
+35.0,Female,9.828691438928221,Medium,,No,Non-Smoker,High,Rarely,1
+35.0,Female,7.280210567796659,High,Moderate,Yes,Current Smoker,High,Regularly,0
+78.0,Female,8.37110336421456,Medium,Moderate,Yes,Non-Smoker,Low,Regularly,0
+60.0,Female,2.9710962838941994,Low,Moderate,No,Former Smoker,Moderate,Never,0
+,Female,,High,,,,Moderate,Never,0
+27.0,Male,3.281247360252194,Low,Severe,No,Current Smoker,Moderate,Rarely,0
+29.0,Female,8.418362483072325,High,Severe,Yes,Current Smoker,Moderate,Never,1
+,Female,3.7496772581346955,,Moderate,,Current Smoker,Moderate,Regularly,0
+30.0,Male,1.8859622681170358,,Mild,Yes,Non-Smoker,None,Never,1
+,Female,7.189408901544059,Medium,Severe,Yes,Current Smoker,High,Never,0
+,Female,4.851986438716213,High,,No,Former Smoker,High,Occasionally,1
+44.0,Male,1.6360786338709588,Low,Moderate,No,Current Smoker,High,Never,1
+70.0,Male,0.8395964374484357,,Severe,Yes,Current Smoker,Moderate,Occasionally,0
+70.0,Female,7.607996791407109,Low,Moderate,No,Non-Smoker,Low,Regularly,1
+22.0,Female,2.9640466352886796,High,Moderate,No,Non-Smoker,High,Rarely,0
+44.0,Female,,Medium,,Yes,Current Smoker,,Never,0
+69.0,Female,0.6976445810172291,Low,Mild,No,Former Smoker,Low,Occasionally,0
+22.0,Male,9.878417630515495,Medium,Severe,No,,High,Never,1
+75.0,Male,7.790189230234755,Medium,Severe,Yes,Non-Smoker,Low,Rarely,0
+20.0,Male,7.972992358869921,Low,Mild,Yes,Current Smoker,High,Regularly,1
+25.0,Female,1.0165120736101887,Medium,Severe,Yes,Current Smoker,Moderate,Rarely,1
+24.0,Female,5.275139513201741,High,Moderate,,Non-Smoker,None,Regularly,1
+70.0,Male,7.3069868256853905,Medium,Mild,No,Former Smoker,Low,Never,0
+,Male,1.7932905245383468,Low,Severe,Yes,Former Smoker,High,Rarely,1
+59.0,Female,6.600374154130202,High,Severe,No,Former Smoker,Moderate,Regularly,0
+71.0,Female,9.097372373896599,High,Mild,No,Non-Smoker,High,Rarely,0
+23.0,Female,9.698779495436197,High,Mild,Yes,Non-Smoker,High,Rarely,1
+36.0,Female,2.0208432032371366,High,,Yes,Non-Smoker,Moderate,Rarely,1
+52.0,Female,4.772065911633071,Medium,Moderate,No,Non-Smoker,Low,Rarely,0
+59.0,Female,6.933867921630774,Low,,,Non-Smoker,None,Rarely,1
+56.0,Female,9.201418757510767,Low,Moderate,No,Current Smoker,None,Regularly,1
+32.0,,7.403632016325183,Medium,,Yes,,High,Occasionally,1
+56.0,Female,3.2418443362457845,High,Moderate,Yes,Current Smoker,None,Never,0
+55.0,Male,,Low,Moderate,No,Non-Smoker,High,Regularly,0
+72.0,,4.219382724262539,Medium,Moderate,Yes,Former Smoker,None,Occasionally,0
+44.0,Female,2.5472266794631926,Medium,Severe,Yes,Current Smoker,High,Rarely,0
+78.0,Female,,Low,Moderate,,Non-Smoker,Low,Rarely,1
+36.0,Female,7.720508801300198,Medium,Severe,No,Former Smoker,Low,Occasionally,0
+45.0,Female,7.340490798810471,High,Moderate,No,Non-Smoker,Moderate,Never,0
+39.0,Male,2.7114173279244937,High,Severe,No,Non-Smoker,Low,Rarely,0
+76.0,Female,4.457319101743272,Low,Moderate,,Former Smoker,High,Occasionally,0
+50.0,Female,0.9220600514319922,Medium,Mild,Yes,Non-Smoker,Low,Never,0
+65.0,Male,2.698275079960136,High,Severe,,Former Smoker,Moderate,Rarely,0
+26.0,,7.2413661445362685,Low,Mild,,Current Smoker,None,Rarely,1
+65.0,Male,1.7677826702870179,Low,Mild,No,Current Smoker,Moderate,Occasionally,0
+50.0,Female,2.33007739573346,Medium,,Yes,,Low,Never,1
+,Female,2.516533506745917,Low,Mild,No,Non-Smoker,None,Regularly,1
+77.0,Female,0.8274316802266852,Medium,Mild,Yes,Former Smoker,Moderate,Rarely,0
+57.0,,4.367553646220488,High,Mild,Yes,Former Smoker,None,Regularly,0
+20.0,Male,9.744224867304434,Low,Moderate,Yes,Former Smoker,Moderate,Occasionally,0
+76.0,Male,7.720884816597509,Low,,No,Current Smoker,None,Occasionally,1
+50.0,Female,4.333176196307448,Low,Mild,No,Former Smoker,None,Occasionally,1
+57.0,,0.9936001128151555,High,Mild,No,,Moderate,Rarely,0
+27.0,Female,7.058426282786332,Low,Moderate,No,,High,Occasionally,0
+37.0,,7.732510815139125,Low,,,,High,Regularly,0
+32.0,Male,7.563303651786267,High,Moderate,No,Former Smoker,High,Never,0
+38.0,Male,0.5666589726718604,Medium,Moderate,No,Non-Smoker,High,Rarely,1
+33.0,Female,2.4918918287880247,Medium,Mild,Yes,Non-Smoker,Low,Regularly,1
+79.0,Female,5.271298499786531,Medium,Moderate,Yes,,,Occasionally,1
+48.0,Female,4.67093476880755,High,Moderate,Yes,Former Smoker,Moderate,Regularly,0
+69.0,Female,3.1336484751240907,,Moderate,No,Non-Smoker,High,Occasionally,1
+55.0,Male,7.174320453289039,Low,Severe,No,Current Smoker,Low,Occasionally,0
+22.0,Female,4.8629041353419655,,Severe,No,Current Smoker,None,,1
+,Female,5.9047826820151625,Medium,Severe,Yes,Current Smoker,Low,Regularly,0
+25.0,Female,7.5587836801854,High,Moderate,No,Current Smoker,High,Rarely,1
+75.0,Female,6.331338944611013,High,Severe,No,,High,Regularly,0
+22.0,Female,1.5318617843865912,Low,Mild,No,Non-Smoker,None,Rarely,0
+43.0,Male,5.72441106285066,Low,Mild,No,Former Smoker,Low,Rarely,0
+43.0,,3.127111544197124,Low,Mild,Yes,Non-Smoker,Moderate,Rarely,1
+,Female,7.819118234514336,High,Moderate,Yes,Current Smoker,Moderate,Occasionally,1
+46.0,Female,7.251162954759964,Medium,Severe,No,Non-Smoker,Low,Occasionally,0
+31.0,Female,3.9037532577770078,Medium,Moderate,Yes,Non-Smoker,Low,Regularly,1
+,Male,3.9265570569385604,,Mild,Yes,Former Smoker,High,Never,0
+40.0,,1.5785263778131626,,Moderate,No,Non-Smoker,None,Rarely,1
+35.0,Female,,Medium,Moderate,No,Non-Smoker,None,,1
+21.0,Male,5.510539662591809,Medium,Mild,,Non-Smoker,Moderate,Occasionally,0
+61.0,Male,2.0397555675748014,High,Mild,No,,Low,Rarely,1
+32.0,Female,3.188155543963762,Medium,Severe,No,Former Smoker,Moderate,Never,0
+27.0,Female,8.328417339680342,Medium,Moderate,No,Former Smoker,Moderate,Regularly,1
+32.0,,1.849423912912436,Medium,Mild,Yes,Former Smoker,Low,Occasionally,0
+26.0,Female,9.4831995899869,Medium,Moderate,No,,None,Occasionally,1
+28.0,Female,1.2433646824187483,High,Mild,Yes,Non-Smoker,Moderate,Never,1
+37.0,,0.5929691227091324,Low,Mild,Yes,Current Smoker,Low,Occasionally,0
+66.0,Male,7.68290806487509,Medium,Moderate,Yes,Current Smoker,None,Regularly,0
+54.0,,4.998859041120107,Low,Moderate,Yes,Current Smoker,Low,Regularly,1
+37.0,Female,1.1802714507352006,Low,Moderate,No,Former Smoker,High,Never,0
+54.0,,3.2378992635522357,Medium,Moderate,No,Non-Smoker,None,Never,0
+75.0,Female,9.81323424273383,Low,,No,Current Smoker,Low,Rarely,0
+74.0,Male,3.348225584594829,Low,Mild,Yes,Current Smoker,,Regularly,0
+61.0,Female,2.8259513021992166,High,Mild,No,Non-Smoker,None,Regularly,0
+37.0,,3.9837553437129727,High,,,Non-Smoker,None,Rarely,1
+67.0,Female,8.844777661335218,High,Moderate,Yes,Former Smoker,Low,,0
+66.0,Male,6.520706231552074,,Severe,Yes,,High,Regularly,0
+,Male,3.2849669722016834,Low,Mild,Yes,Current Smoker,,Never,0
+37.0,Male,9.212416937054083,Low,Severe,,Non-Smoker,Moderate,Occasionally,1
+43.0,Female,2.0451974964500987,,Mild,No,Non-Smoker,Moderate,Never,1
+61.0,Male,7.047990055065265,High,Moderate,No,Current Smoker,Moderate,Never,1
+72.0,Male,7.66655903970242,Low,Severe,Yes,Current Smoker,None,Regularly,1
+,Male,8.589293343395493,Low,Severe,No,Non-Smoker,None,Occasionally,0
+31.0,Male,1.7108401284235502,High,Severe,No,Non-Smoker,Low,Rarely,0
+25.0,Male,3.580378213065781,Medium,Severe,No,Current Smoker,Moderate,Rarely,1
+28.0,,,High,Severe,No,Non-Smoker,High,Rarely,1
+,Female,8.85645076157213,Medium,Moderate,,Former Smoker,None,Never,1
+36.0,Female,1.2913482326535637,Medium,Severe,No,Former Smoker,None,,1
+37.0,Male,6.838903842341453,High,Moderate,Yes,Former Smoker,Low,Never,0
+59.0,Female,7.245007798168859,High,Moderate,No,Non-Smoker,,Never,0
+31.0,Female,1.3388248070277662,Low,Moderate,No,Non-Smoker,Low,Never,0
+58.0,Male,0.7016609004275525,,Mild,No,Current Smoker,None,Regularly,1
+29.0,Female,1.1914157051678675,Medium,Severe,No,,High,Regularly,0
+61.0,Female,2.712690407242229,Medium,Severe,No,Current Smoker,None,Rarely,0
+25.0,Female,,High,Mild,No,,Moderate,Never,1
+39.0,Male,7.394750293321834,Low,Moderate,No,Former Smoker,High,Occasionally,1
+55.0,Female,8.92735723845089,High,Moderate,No,Former Smoker,None,Occasionally,1
+27.0,Male,5.783878797100128,Low,Severe,Yes,,Moderate,Rarely,0
+46.0,Male,7.250183607137879,Low,Moderate,Yes,Current Smoker,High,,0
+75.0,Male,3.7235345990321207,Medium,Moderate,No,Former Smoker,High,Never,0
+41.0,Male,4.399328882626769,Low,Moderate,,,Low,Regularly,0
+77.0,Female,2.2011032424885304,Medium,Mild,No,Non-Smoker,High,Never,1
+43.0,Female,0.9628041839833761,Medium,Severe,No,Current Smoker,Low,Never,1
+27.0,Male,2.8832888139555064,Low,Severe,No,Current Smoker,Moderate,Rarely,0
+47.0,Female,9.829289993721723,Medium,Severe,No,Former Smoker,Low,Regularly,1
+73.0,Male,8.923421953393431,High,Severe,Yes,Non-Smoker,,Occasionally,1
+47.0,,,Low,Moderate,No,Former Smoker,None,Regularly,0
+59.0,Male,5.652661821176237,Low,Mild,No,Current Smoker,High,,0
+49.0,Male,2.6865163164397057,Low,Moderate,,Former Smoker,None,Never,1
+33.0,Male,5.392426383913379,High,Severe,No,Non-Smoker,None,Rarely,1
+74.0,,2.4904994798174434,Low,Severe,Yes,Former Smoker,None,Occasionally,0
+47.0,Female,,Medium,Moderate,No,Current Smoker,None,Rarely,0
+45.0,Male,3.235279305411657,High,Mild,Yes,Non-Smoker,,Never,1
+26.0,Female,3.623909055002771,Low,Severe,Yes,Former Smoker,None,Never,1
+40.0,Female,7.113493342678734,High,Severe,No,Current Smoker,High,Rarely,0
+55.0,Female,5.998976080211908,,Moderate,No,Non-Smoker,Low,Rarely,1
+46.0,Male,4.439209211438697,High,Severe,Yes,Former Smoker,Moderate,Regularly,1
+27.0,Female,1.5485724322293668,High,Mild,No,Current Smoker,Moderate,Occasionally,1
+45.0,,1.2141769114329979,Low,,No,Current Smoker,High,Regularly,1
+71.0,Female,,High,Mild,,Former Smoker,None,Regularly,0
+49.0,Male,4.433615603368052,,Mild,No,Current Smoker,High,Occasionally,0
+,Male,,Medium,Severe,No,Non-Smoker,High,Occasionally,1
+76.0,Male,6.952850040542231,High,,Yes,Current Smoker,Low,Never,1
+45.0,Female,9.785078627058818,High,Severe,No,Former Smoker,Moderate,Occasionally,1
+39.0,Female,6.810096203750247,Low,Mild,Yes,Non-Smoker,None,Occasionally,1
+,Female,2.712487997620626,High,Mild,Yes,,High,Never,0
+49.0,Female,,,Severe,No,Current Smoker,Low,Occasionally,0
+63.0,Male,2.6202539679459345,,,No,Former Smoker,Low,Occasionally,0
+70.0,Female,6.292758548837932,Medium,Moderate,Yes,Current Smoker,Low,Never,1
+23.0,Male,5.814581102291021,Low,Moderate,No,Current Smoker,Moderate,Never,0
+47.0,Female,6.894276703125913,High,Mild,No,Current Smoker,High,Rarely,1
+63.0,,5.263175822811962,Low,Mild,Yes,Current Smoker,Low,Regularly,0
+40.0,Female,2.765540410718267,Low,Moderate,Yes,,Low,Regularly,0
+76.0,Male,3.5728160228946013,High,Moderate,No,Non-Smoker,Low,Occasionally,0
+74.0,Female,4.834844509016435,High,Severe,Yes,Former Smoker,Moderate,Never,1
+39.0,Male,1.185514991212346,Medium,Severe,No,,Low,Rarely,0
+68.0,Male,2.2530489431052345,Low,Moderate,No,Non-Smoker,Low,Occasionally,0
+64.0,Male,5.669222119021501,Low,Severe,Yes,Non-Smoker,High,Occasionally,0
+32.0,Male,4.921864796573407,Medium,Mild,Yes,Former Smoker,Moderate,Occasionally,0
+26.0,Male,8.85221427962339,High,Moderate,Yes,,High,Rarely,0
+79.0,Female,2.549411691878462,,Mild,No,Current Smoker,,Regularly,1
+25.0,Female,7.49453523675526,Medium,Moderate,No,Former Smoker,,Regularly,1
+61.0,Female,5.117897890798754,High,Moderate,Yes,Former Smoker,None,Regularly,1
+24.0,Male,1.146362617746436,High,,No,Former Smoker,None,Regularly,0
+,Male,3.208922506952139,Low,Severe,,Former Smoker,,Rarely,1
+50.0,Female,3.394371361485654,High,Severe,No,Non-Smoker,Moderate,Rarely,0
+62.0,Male,8.086930550259694,Low,Moderate,No,Current Smoker,Moderate,,1
+22.0,Male,8.273532945976731,High,Severe,Yes,Former Smoker,High,Rarely,1
+32.0,,9.572223852974954,Medium,Moderate,No,Current Smoker,,Rarely,1
+36.0,Male,7.35245340852571,,Moderate,Yes,Non-Smoker,Low,Never,1
+58.0,Female,7.062204310477444,Low,Mild,No,Current Smoker,Moderate,Never,0
+76.0,Male,,,Severe,No,Current Smoker,Moderate,Occasionally,1
+53.0,Male,6.392468291629812,,Severe,No,Current Smoker,,Never,1
+66.0,Female,3.7903764406192018,,Severe,Yes,Non-Smoker,None,Never,1
+31.0,Female,6.823748927462929,Medium,Severe,No,Non-Smoker,High,Never,1
+52.0,Female,1.3233302530430344,Medium,Severe,Yes,,High,Never,0
+30.0,,5.388387089764385,Low,Severe,,Former Smoker,Moderate,Never,0
+23.0,Female,4.236517058312826,High,Mild,Yes,Former Smoker,None,Occasionally,1
+72.0,Female,9.9981657447333,Medium,Severe,Yes,Non-Smoker,None,,1
+48.0,Male,1.8699878692803478,High,Severe,Yes,Current Smoker,Low,Never,1
+44.0,Female,0.8798158291276936,Low,Moderate,,Non-Smoker,None,Never,1
+,Female,1.8316550932864106,Low,Moderate,No,,None,Occasionally,0
+46.0,,8.834743850787062,Low,Mild,Yes,Former Smoker,Moderate,Regularly,0
+66.0,Female,6.367245276489369,Low,Mild,No,Former Smoker,None,Occasionally,1
+75.0,Male,3.401686231907227,Medium,Severe,No,Non-Smoker,Low,Occasionally,1
+22.0,Female,,Low,Severe,No,Former Smoker,Low,Occasionally,0
+31.0,Male,7.956297718406619,Medium,Mild,Yes,Current Smoker,Moderate,Occasionally,1
+54.0,Male,,Low,Moderate,Yes,Non-Smoker,Moderate,,0
+72.0,Male,8.14833128001342,,Moderate,Yes,Current Smoker,High,Occasionally,0
+43.0,Male,7.62716216239222,High,Mild,No,Former Smoker,Moderate,Occasionally,0
+67.0,Female,4.008458555747165,Low,Severe,No,Current Smoker,Moderate,Rarely,0
+,Male,1.9692445868437778,High,Moderate,No,Current Smoker,None,Occasionally,1
+38.0,Female,5.1654911316650205,,Severe,No,Former Smoker,None,Never,0
+44.0,Male,5.621884430760352,Low,Mild,No,Former Smoker,,Occasionally,1
+65.0,Male,7.3270706755987725,Medium,Severe,Yes,Current Smoker,None,Occasionally,0
+65.0,Female,5.988345740576047,Low,,Yes,Non-Smoker,Low,Rarely,0
+24.0,Female,8.021066310972579,High,Mild,No,,,Rarely,1
+,Male,7.4445916451915375,Low,Moderate,No,Current Smoker,None,Rarely,0
+48.0,Male,1.0129102781833503,High,Moderate,No,Former Smoker,Low,Rarely,1
+24.0,Female,5.75133671781658,High,Mild,No,Former Smoker,,Never,0
+,Male,8.944922411771529,Low,Moderate,Yes,Former Smoker,None,Occasionally,0
+64.0,Male,3.4575168785911283,Low,Severe,Yes,,Moderate,,0
+51.0,Male,9.149369847220878,High,Severe,Yes,,High,Never,1
+32.0,Female,2.0050634106231606,Low,Moderate,Yes,Former Smoker,None,Occasionally,1
+32.0,,9.231318596900707,Low,Severe,No,Current Smoker,None,Occasionally,0
+35.0,Female,4.831296191952158,High,Mild,No,Current Smoker,High,Rarely,1
+68.0,Female,8.635848686177868,High,Moderate,Yes,Non-Smoker,High,Never,0
+32.0,,,,Severe,No,Current Smoker,Moderate,Never,0
+78.0,Male,2.918105890504142,Low,Mild,No,,High,Rarely,0
+65.0,Female,9.548437393688335,Low,,Yes,Former Smoker,Low,,1
+,Male,9.663761685484696,Low,Severe,No,Current Smoker,Low,,0
+71.0,Male,1.2974504954061366,High,Moderate,No,Former Smoker,,Rarely,1
+74.0,Male,7.124651496675872,,,Yes,Former Smoker,None,Rarely,0
+20.0,Female,3.7273849498040414,,Severe,Yes,Former Smoker,Low,Rarely,0
+71.0,,3.351677961235746,,Mild,No,Former Smoker,High,Occasionally,0
+22.0,Male,7.5586160734954495,Low,Moderate,No,Former Smoker,Moderate,Never,0
+71.0,Female,6.934029250705476,Low,Mild,Yes,Non-Smoker,Moderate,Regularly,1
+77.0,Male,0.8144989107939816,Medium,Mild,No,,High,,0
+67.0,Male,4.820550392109501,High,Moderate,No,Current Smoker,None,Never,0
+39.0,Male,8.417491458146873,High,Moderate,No,Former Smoker,None,Occasionally,1
+48.0,Female,3.37982859858863,Medium,Moderate,Yes,Former Smoker,Moderate,Rarely,0
+36.0,Female,6.648277050781403,Low,Mild,Yes,Current Smoker,Low,Occasionally,1
+36.0,Male,3.359208956941644,,Mild,Yes,Current Smoker,None,,0
+67.0,Male,0.961566195873578,Low,Moderate,No,Current Smoker,High,,0
+43.0,Female,3.682545562258478,High,,,Current Smoker,Moderate,Never,0
+44.0,Male,,High,,No,Current Smoker,High,Occasionally,0
+,Male,4.014633490560511,Low,Mild,,Non-Smoker,,Never,1
+42.0,Male,5.420781317142124,High,Severe,No,Current Smoker,Low,Occasionally,0
+42.0,Male,5.033479310810061,Low,Moderate,Yes,Non-Smoker,High,Never,0
+39.0,Female,6.573826073595096,High,Mild,,Non-Smoker,Moderate,Occasionally,1
+,Male,3.77662473872824,High,Moderate,Yes,Current Smoker,Low,Rarely,1
+23.0,Female,1.6638754646212355,Medium,,No,Current Smoker,Low,Regularly,1
+34.0,Female,3.3665772738200754,Medium,Moderate,,Non-Smoker,Moderate,Rarely,1
+37.0,Female,5.04662763623644,Low,Moderate,No,Current Smoker,None,Regularly,0
+45.0,Male,3.8908478472967154,,Moderate,No,Current Smoker,Moderate,Regularly,0
+67.0,,1.7820514413304536,Medium,Moderate,No,Current Smoker,High,Regularly,1
+45.0,Male,6.558940071738864,Low,Severe,Yes,Current Smoker,High,,1
+54.0,Female,5.510208334237586,Medium,Severe,No,Former Smoker,Moderate,,1
+34.0,Female,3.201975421267063,Low,Mild,No,Non-Smoker,Moderate,Occasionally,1
+24.0,Female,5.117821737535397,Low,Mild,Yes,Non-Smoker,High,Never,1
+,Male,6.027966180364855,High,Moderate,No,Non-Smoker,High,Regularly,0
+63.0,Female,1.2623540857445552,Medium,Moderate,No,Current Smoker,,Occasionally,0
+36.0,Female,9.560420133545943,High,Severe,No,Current Smoker,Moderate,Never,0
+50.0,Male,1.2250473296196476,Low,Mild,Yes,Current Smoker,None,Regularly,1
+68.0,Male,2.9461832544689166,Medium,Mild,No,Current Smoker,Low,Occasionally,1
+40.0,Female,5.1038840025425545,Medium,,,,Moderate,Regularly,1
+59.0,Male,5.498336011299005,Medium,Severe,No,,Moderate,Occasionally,0
+25.0,Male,5.4564582319223955,High,Severe,No,Non-Smoker,None,Occasionally,1
+61.0,Male,9.239227824329356,High,Moderate,No,Non-Smoker,High,Rarely,0
+34.0,Female,5.195720560257375,High,Mild,Yes,Non-Smoker,,Rarely,1
+60.0,Female,,Medium,Moderate,,Current Smoker,Low,Never,0
+31.0,Female,7.366794446120143,,Moderate,Yes,Non-Smoker,Low,Rarely,1
+52.0,Female,0.7092841873129846,Low,,No,Former Smoker,Moderate,Rarely,0
+57.0,Female,3.181968233942939,Medium,Severe,Yes,Non-Smoker,,Rarely,0
+58.0,Female,9.010256476726337,Low,Severe,No,Non-Smoker,Moderate,Occasionally,1
+59.0,Female,4.6626352472608685,Medium,Severe,Yes,Non-Smoker,Low,Occasionally,1
+58.0,Male,6.65537163998608,Low,Moderate,Yes,Non-Smoker,None,Occasionally,0
+67.0,Male,4.812390710531781,Medium,Moderate,Yes,Current Smoker,None,Never,1
+36.0,Male,4.264916275377079,,,No,Non-Smoker,Low,Occasionally,0
+39.0,,9.01790032218759,Low,Severe,,Former Smoker,Moderate,Occasionally,0
+50.0,Male,7.070235285881862,High,Moderate,,Current Smoker,,Regularly,1
+36.0,,2.458043657601464,High,Severe,Yes,Current Smoker,Low,Occasionally,1
+43.0,Male,6.355101178791968,Low,Severe,Yes,Former Smoker,None,Never,0
+73.0,Female,4.047717289952564,Low,Moderate,No,Non-Smoker,None,Occasionally,1
+41.0,Male,6.056405439753777,Medium,Moderate,Yes,Former Smoker,Moderate,Never,1
+40.0,,6.588316792025175,High,Moderate,No,Non-Smoker,High,Never,1
+78.0,Male,3.137317314146349,High,Severe,Yes,Non-Smoker,Moderate,Rarely,1
+51.0,,6.684633430692366,High,Mild,No,Current Smoker,None,Never,0
+36.0,Male,2.2075361655289294,Medium,Severe,Yes,Non-Smoker,Moderate,Rarely,1
+33.0,Female,,Medium,Mild,No,Current Smoker,None,Regularly,1
+30.0,Male,3.2529768886815043,,Mild,No,Current Smoker,High,Rarely,0
+47.0,Female,7.754541885913806,Low,Mild,No,Non-Smoker,Moderate,Occasionally,0
+,Male,1.4446330799519491,High,Moderate,No,Non-Smoker,High,Occasionally,0
+20.0,Female,7.2441256957678855,Low,Mild,Yes,Non-Smoker,None,Regularly,1
+26.0,Female,8.592508164502833,Medium,Moderate,Yes,Current Smoker,None,Never,1
+63.0,,4.364560809028731,High,Mild,Yes,Non-Smoker,High,Occasionally,0
+39.0,Male,7.413085899933295,Medium,Mild,Yes,Former Smoker,,Regularly,0
+48.0,Female,7.083190665716841,High,Mild,Yes,Current Smoker,None,Rarely,1
+61.0,Male,,High,Moderate,Yes,Current Smoker,None,Never,1
+78.0,Male,8.360357423885468,,,No,Non-Smoker,Moderate,Regularly,1
+56.0,Female,,Low,Severe,Yes,Non-Smoker,None,Occasionally,1
+65.0,Male,9.10774219505935,Low,Severe,No,Former Smoker,Low,Rarely,0
+26.0,Male,3.2716390267663416,Low,Moderate,Yes,Current Smoker,None,Never,1
+72.0,Male,4.189443617242565,,Severe,No,Non-Smoker,Moderate,Rarely,1
+71.0,Male,9.909055820747728,,Mild,,Former Smoker,Low,Regularly,0
+24.0,Female,8.435479368825568,Low,Severe,No,Former Smoker,High,Never,0
+76.0,,5.813568057825094,High,Severe,Yes,Former Smoker,High,Regularly,0
+,Female,8.106596187092574,Low,Mild,No,Non-Smoker,Moderate,Never,0
+47.0,Female,3.531397581325,Medium,Severe,Yes,Non-Smoker,High,Rarely,0
+78.0,Male,2.251219394634062,Low,Moderate,Yes,Non-Smoker,None,Never,0
+62.0,Male,7.011210879385386,Low,Severe,,Former Smoker,Low,Rarely,1
+,Male,4.4016614113531505,High,Severe,Yes,Current Smoker,High,,0
+31.0,Female,0.8819053222377933,Low,Moderate,No,Former Smoker,Moderate,Regularly,1
+38.0,Female,7.025284116017046,Medium,Mild,Yes,Former Smoker,Moderate,Rarely,1
+42.0,Female,4.646493754528914,Low,Severe,No,Former Smoker,High,Never,1
+24.0,Male,,High,Mild,Yes,Current Smoker,Low,Rarely,0
+23.0,Male,3.1085859214865166,Low,Severe,Yes,Current Smoker,,Occasionally,0
+64.0,Male,4.742750178350978,Low,Severe,Yes,Non-Smoker,Moderate,Regularly,0
+33.0,Male,,,Moderate,Yes,,High,Occasionally,1
+,Female,,Low,Moderate,,Former Smoker,Low,Regularly,0
+48.0,Female,1.0670714987795307,,Moderate,,Former Smoker,None,Regularly,1
+66.0,Female,,Medium,Mild,No,Non-Smoker,Moderate,Never,0
+,Male,9.806870973280676,High,Severe,Yes,Current Smoker,None,Rarely,1
+43.0,Male,7.656233905655575,Low,Mild,Yes,Non-Smoker,Low,Occasionally,0
+,Female,7.3608567435699985,Low,Mild,No,Former Smoker,None,,0
+76.0,Male,1.7501063004505206,Low,Severe,No,Current Smoker,None,Occasionally,0
+51.0,Female,3.4891705365660886,Low,Severe,No,Former Smoker,High,Regularly,1
+,Female,8.112988205192341,High,Moderate,No,Former Smoker,Low,,1
+74.0,,7.462257299399683,Medium,Severe,No,Current Smoker,High,,1
+,Male,4.607896716791915,Medium,,No,Non-Smoker,,Rarely,1
+71.0,,0.5922314815088232,High,Severe,No,Former Smoker,None,Occasionally,0
+29.0,,,High,Moderate,Yes,Former Smoker,None,Never,1
+54.0,Female,3.379136160401754,Medium,Severe,No,,,,0
+68.0,Female,1.768861194441611,,Severe,No,Non-Smoker,None,Occasionally,1
+,Female,,Medium,Mild,Yes,Former Smoker,Moderate,Never,1
+66.0,Male,4.2958617515215,Low,Moderate,No,Former Smoker,Moderate,Never,0
+67.0,,4.450415788532343,Medium,Moderate,Yes,Non-Smoker,Moderate,Never,0
+56.0,Male,6.835428809667389,Low,Moderate,,Former Smoker,None,,0
+40.0,Male,5.2993315354645105,Low,Mild,No,Non-Smoker,High,Rarely,0
+46.0,Male,4.14792203805628,Medium,Mild,No,Non-Smoker,Moderate,Never,0
+76.0,Male,0.6700928738472434,Low,Moderate,No,,High,Regularly,0
+52.0,Female,2.3996224942568922,Medium,Moderate,No,Current Smoker,Moderate,,0
+72.0,Male,,High,Mild,No,Non-Smoker,High,Regularly,1
+79.0,Male,7.400933662542908,Medium,Severe,,Non-Smoker,High,Never,1
+66.0,Female,8.53484746368191,Low,Moderate,No,Non-Smoker,Low,Rarely,1
+26.0,Female,5.429443488315405,Medium,Mild,No,Current Smoker,High,Regularly,0
+45.0,Male,7.270290935291573,Medium,Moderate,No,Former Smoker,Moderate,,1
+59.0,Female,2.7584713429443464,Medium,Moderate,No,,Low,,0
+33.0,Female,7.779767285879966,Medium,Severe,No,Current Smoker,None,Never,0
+61.0,Male,6.195281366356575,High,Severe,No,Former Smoker,,Occasionally,1
+24.0,Female,8.739309709360455,,Severe,Yes,Former Smoker,Low,Rarely,1
+,Female,2.9937537951307114,Medium,Severe,,Former Smoker,Low,Regularly,0
+,Female,5.591437384105762,High,Severe,No,Former Smoker,Moderate,,0
+24.0,Female,5.360368859040211,Medium,Mild,Yes,Current Smoker,None,Never,1
+56.0,Female,2.487210900677944,Low,Severe,Yes,Current Smoker,Moderate,Never,0
+55.0,Female,3.7259045687530277,Medium,Mild,Yes,Non-Smoker,Moderate,Regularly,0
+22.0,Male,2.0554853345678463,Low,Severe,No,Non-Smoker,High,Never,1
+36.0,Female,1.1379979670398601,Medium,Mild,Yes,,Low,Rarely,0
+64.0,Male,2.076513988767939,Medium,Severe,No,,High,Occasionally,1
+35.0,Male,3.7647831432320844,Low,,,Former Smoker,,Rarely,0
+25.0,Female,7.614020143191924,,Moderate,Yes,Current Smoker,None,Regularly,1
+33.0,Female,4.525586595882812,Low,Moderate,Yes,Current Smoker,Moderate,Rarely,0
+47.0,Female,2.3905391379957384,Medium,Severe,Yes,Former Smoker,High,Occasionally,1
+64.0,Male,7.538991964959892,Medium,Severe,Yes,Non-Smoker,Moderate,Rarely,1
+79.0,Female,6.663561275807306,Low,,No,,None,Rarely,1
+50.0,Female,9.574961942126697,Medium,Severe,No,Current Smoker,None,Never,0
+38.0,Male,1.647474907922727,High,Severe,No,Non-Smoker,High,Regularly,1
+43.0,Male,5.195945485544093,Low,,No,Current Smoker,,Regularly,0
+49.0,Male,,High,Severe,No,Non-Smoker,None,Regularly,1
+59.0,,3.367796612750433,Low,Moderate,,Former Smoker,Moderate,Regularly,0
+50.0,Female,1.254933101224367,Low,Moderate,No,Non-Smoker,High,Never,1
+25.0,,5.413914863314108,Low,Moderate,No,Non-Smoker,Moderate,Regularly,0
+72.0,Male,3.8644413430537563,Low,Severe,Yes,Former Smoker,High,,1
+68.0,Male,2.2281619976353997,Medium,Mild,Yes,Non-Smoker,High,Occasionally,1
+26.0,Female,0.9984412569174639,Low,Mild,,Non-Smoker,Low,Never,0
+48.0,Female,1.1766412801424955,Low,Moderate,Yes,Non-Smoker,High,Never,1
+36.0,Female,,Medium,Severe,No,Non-Smoker,Moderate,Regularly,1
+59.0,Male,9.23641536122048,High,Mild,No,Former Smoker,,Regularly,0
+22.0,Male,1.023874862635945,High,Mild,Yes,Former Smoker,None,Never,0
+35.0,Female,8.359212638463132,High,Moderate,,Former Smoker,High,Rarely,0
+76.0,Female,7.2704330654984455,High,,Yes,Former Smoker,High,Occasionally,0
+68.0,,1.0543613908905758,Low,Severe,No,Current Smoker,None,Occasionally,0
+,,5.673893079016826,Low,Moderate,Yes,,None,Never,1
+42.0,,7.124327624926927,High,Severe,No,Non-Smoker,Moderate,Never,1
+32.0,Female,,Medium,Severe,Yes,Non-Smoker,None,Rarely,0
+65.0,Female,5.692722500890776,Medium,Moderate,No,Non-Smoker,Moderate,Never,1
+64.0,Female,7.661016030957157,,Severe,No,Current Smoker,None,Never,0
+55.0,Female,6.113074924994106,High,,No,Current Smoker,,Never,0
+40.0,Female,5.9443865179242,Medium,Moderate,No,Non-Smoker,High,Never,1
+52.0,Female,3.363179528844375,,Mild,Yes,Former Smoker,None,Never,0
+27.0,,5.580370605697498,High,Severe,Yes,Current Smoker,Low,Never,0
+57.0,Male,8.718593224231997,Low,Mild,Yes,Non-Smoker,,,0
+62.0,Female,5.568651910165112,Medium,Mild,No,Former Smoker,High,Occasionally,1
+20.0,Male,8.040769431636733,Low,Severe,No,Non-Smoker,,Occasionally,1
+71.0,Female,9.660976776075243,Low,Moderate,Yes,,High,Rarely,1
+25.0,Female,6.359087321911006,High,Moderate,No,Current Smoker,None,Occasionally,1
+27.0,Male,5.806469112575897,High,Mild,Yes,Former Smoker,None,Never,1
+62.0,Male,7.038108523724068,High,Moderate,,,Low,Occasionally,1
+21.0,Female,6.795315676703939,Low,Moderate,Yes,Current Smoker,,,1
+79.0,Male,6.4352708491494806,High,Moderate,No,Former Smoker,High,Never,0
+33.0,Female,7.482721388494028,Low,Severe,,,None,Never,1
+61.0,Female,6.018215808078339,High,Severe,No,Current Smoker,High,Regularly,1
+40.0,Male,1.4663498722560073,,Moderate,No,Non-Smoker,Moderate,Occasionally,0
+,Female,2.1193300559056665,Medium,Moderate,No,Current Smoker,Low,Occasionally,0
+55.0,Female,7.366920867568747,Low,,Yes,Current Smoker,Low,Regularly,1
+63.0,,3.191337508656714,,,No,Current Smoker,Moderate,Never,0
+,,5.080557307499201,High,Mild,,Non-Smoker,High,Occasionally,1
+78.0,,7.819819036085726,Low,,Yes,Former Smoker,None,Never,0
+64.0,,0.8634770428674186,High,Mild,No,Former Smoker,Moderate,Occasionally,0
+46.0,Female,8.799094802997729,Medium,Mild,Yes,Former Smoker,High,Rarely,0
+60.0,Male,9.185436824291989,High,Severe,Yes,Former Smoker,Low,,0
+48.0,Male,4.916614907953775,Medium,Mild,No,Current Smoker,Low,Never,1
+24.0,Female,9.597706832694408,,Mild,Yes,Former Smoker,Moderate,Occasionally,0
+27.0,,1.7802738555278843,High,Moderate,Yes,Non-Smoker,High,,0
+47.0,Male,8.310686693474896,High,Severe,No,Non-Smoker,,Regularly,0
+50.0,Male,8.109587905478804,Low,Moderate,No,,Moderate,Regularly,1
+39.0,Female,1.574143311254991,Low,Severe,Yes,Non-Smoker,None,Regularly,0
+76.0,Female,9.24287616279213,Medium,Mild,Yes,Former Smoker,High,Never,0
+45.0,Female,9.887640457726537,,Severe,,Former Smoker,None,,0
+22.0,Female,7.16410368001896,,Mild,Yes,,Low,Never,1
+62.0,Female,6.9160615386214035,High,Mild,Yes,Non-Smoker,High,Rarely,1
+58.0,Male,,High,Moderate,Yes,Current Smoker,None,Regularly,1
+25.0,Female,8.529184898334988,,,No,Former Smoker,High,Never,0
+25.0,Female,2.237224370697972,Medium,Moderate,Yes,Current Smoker,High,Never,0
+68.0,Male,5.647181365596081,High,Moderate,Yes,Former Smoker,Moderate,Occasionally,0
+49.0,Female,5.745337048210508,Low,,Yes,Non-Smoker,,Regularly,1
+38.0,Male,5.378301121661847,Low,Mild,Yes,Current Smoker,Low,Rarely,1
+75.0,Female,,High,Moderate,No,Current Smoker,Moderate,Never,1
+71.0,Female,8.865619325492426,Medium,,Yes,Former Smoker,,Occasionally,1
+40.0,Male,4.958523688646106,High,Moderate,Yes,Non-Smoker,High,Regularly,1
+41.0,Female,8.518381464537391,Medium,Severe,No,Current Smoker,High,Never,1
+56.0,Male,9.538167220400341,,Mild,No,Non-Smoker,Moderate,Regularly,0
+20.0,Male,3.588608669931413,Medium,Moderate,Yes,Former Smoker,High,Regularly,0
+,Male,4.916844764349335,Low,Mild,Yes,Non-Smoker,Moderate,Occasionally,1
+58.0,Female,7.564692434094247,High,Moderate,Yes,Current Smoker,Moderate,Occasionally,1
+60.0,Male,6.56192536558963,Low,Moderate,No,Non-Smoker,Low,Never,1
+38.0,Male,2.0852165002693033,High,Mild,No,Current Smoker,Moderate,Rarely,1
+65.0,Female,1.3989445959054276,Medium,,Yes,Former Smoker,Moderate,Regularly,1
+33.0,Male,4.014353516846892,,Moderate,Yes,Non-Smoker,,Regularly,1
+56.0,Female,7.4760365298094476,,Mild,Yes,Former Smoker,,Rarely,1
+36.0,Male,8.65994077332942,Low,Mild,No,Non-Smoker,Moderate,Occasionally,0
+27.0,Female,,Medium,Severe,No,Non-Smoker,Moderate,Regularly,0
+41.0,Female,4.432601277475463,Medium,Severe,No,Non-Smoker,Moderate,Rarely,1
+73.0,Female,0.5520567809004018,Medium,Severe,Yes,Former Smoker,,Regularly,1
+52.0,Male,6.550718312200064,Low,Moderate,No,,High,Occasionally,1
+54.0,Female,9.850011725477701,Medium,Mild,Yes,Current Smoker,,Never,0
+28.0,Male,9.807082860580755,High,Severe,Yes,Current Smoker,High,Never,1
+47.0,Male,2.7821409925760037,Medium,Moderate,Yes,Non-Smoker,Low,Occasionally,1
+46.0,Male,2.4078670822801547,Low,Moderate,No,Current Smoker,,Occasionally,1
+,Female,3.2751876840542167,Medium,Mild,No,Current Smoker,,Never,0
+,Male,1.9102119167373344,Low,Mild,No,Current Smoker,None,Rarely,0
+33.0,Male,7.167645900407413,Low,Severe,Yes,Non-Smoker,Low,Rarely,0
+46.0,Male,6.657206195506905,Low,Severe,Yes,Former Smoker,High,,0
+25.0,Male,3.0031434759997935,Low,Mild,No,Former Smoker,Low,Never,0
+73.0,Female,,Low,Mild,Yes,Current Smoker,None,Occasionally,1
+45.0,Female,7.6321194240629415,Medium,Mild,No,Non-Smoker,None,Never,1
+73.0,Male,0.9234671112422197,Medium,Mild,No,Former Smoker,,Never,1
+73.0,Female,6.229946990609355,Low,Mild,No,Current Smoker,High,Occasionally,0
+64.0,Female,1.6180621454613087,Medium,Severe,No,Former Smoker,None,Regularly,1
+32.0,Female,9.01581001153481,Low,Severe,No,Former Smoker,None,Rarely,0
+57.0,Female,2.0556132346681064,Low,Moderate,Yes,Non-Smoker,High,Occasionally,0
+21.0,Male,,Medium,Mild,Yes,Current Smoker,High,Rarely,1
+68.0,Male,8.633146142964971,High,Moderate,No,,Low,Rarely,1
+76.0,,6.482064334141275,Low,Mild,Yes,Former Smoker,None,Regularly,1
+79.0,Male,7.0392863080980295,Low,Moderate,Yes,,High,Occasionally,0
+53.0,Female,1.4585001046858541,Medium,Moderate,No,Former Smoker,Low,Regularly,0
+44.0,Male,5.2113202120171636,High,,,Non-Smoker,None,Occasionally,1
+63.0,Male,3.13989356534794,High,Moderate,,Former Smoker,Moderate,Regularly,0
+32.0,Male,6.803026362982044,High,Moderate,Yes,Non-Smoker,Moderate,Never,1
+50.0,Female,,Medium,Moderate,Yes,Former Smoker,,,0
+53.0,Male,9.888066838654398,Low,Moderate,No,Non-Smoker,None,Rarely,1
+74.0,Male,9.220651673407698,Low,Moderate,,Current Smoker,None,Never,0
+74.0,Male,6.539305906609262,Medium,Moderate,Yes,Non-Smoker,Moderate,Occasionally,0
+,Female,1.341433042986758,Low,,Yes,Former Smoker,High,Never,1
+22.0,Female,6.462626863663971,,Severe,No,Former Smoker,High,Regularly,0
+,Female,5.470214250269194,High,Moderate,Yes,Current Smoker,Low,Occasionally,0
+33.0,Male,2.712116013162414,High,,No,,None,Regularly,1
+23.0,Female,9.175820447859547,Low,Mild,No,Current Smoker,High,Rarely,0
+46.0,Female,9.176705533447288,High,Moderate,No,Current Smoker,None,Rarely,1
+79.0,Female,4.315025789536264,,,Yes,Non-Smoker,Low,Never,0
+70.0,Female,2.5169037477107756,Medium,Moderate,Yes,Current Smoker,High,Rarely,0
+41.0,,6.5920372001509016,Medium,Mild,Yes,Former Smoker,,Never,1
+48.0,Female,6.089935633630861,Low,Moderate,No,Non-Smoker,Moderate,,0
+66.0,Male,3.864851603448181,Medium,Severe,Yes,Non-Smoker,High,Rarely,0
+69.0,Female,7.7257876797629885,High,Moderate,Yes,Current Smoker,Moderate,Never,1
+42.0,Male,7.248950592423351,Low,Mild,No,Current Smoker,High,Regularly,0
+32.0,Female,7.962986941349006,Low,Mild,No,Former Smoker,None,Regularly,1
+28.0,Female,1.4961626218383524,Medium,Moderate,Yes,Non-Smoker,None,Regularly,1
+23.0,Female,3.9549716867557967,Low,,No,Current Smoker,High,Regularly,1
+36.0,Male,2.512032694235853,Low,Mild,Yes,Former Smoker,Low,Regularly,1
+,Male,2.0129646811216126,Medium,Mild,Yes,Former Smoker,,Rarely,1
+59.0,Female,0.9320544083295867,Medium,Severe,,Non-Smoker,Moderate,Regularly,0
+42.0,Male,5.282771867393884,Medium,Moderate,No,Former Smoker,Low,Never,0
+46.0,Female,8.517882165762149,,Mild,Yes,Former Smoker,Moderate,,0
+33.0,Female,9.932059170535771,Low,Severe,No,Former Smoker,None,Rarely,1
+69.0,Male,2.9027454017147996,Low,Severe,Yes,Current Smoker,None,Occasionally,1
+60.0,Male,4.655314104836066,High,Moderate,No,Current Smoker,Low,Regularly,0
+42.0,Female,7.59876153580683,Medium,Severe,Yes,,High,Rarely,0
+69.0,Female,9.094861867241102,Low,Mild,Yes,,None,Never,1
+,Female,,Low,Mild,Yes,Current Smoker,None,Occasionally,1
+26.0,Female,4.007406267916933,Low,Severe,Yes,Former Smoker,None,Never,0
+25.0,Male,5.770434449930308,Medium,,Yes,Current Smoker,,Occasionally,0
+23.0,Male,7.169037466712899,Medium,Severe,Yes,Former Smoker,Low,Rarely,1
+24.0,,5.665592689727723,High,Mild,Yes,Current Smoker,Low,Never,1
+41.0,Female,6.09158690055798,High,Mild,No,Non-Smoker,Moderate,Never,1
+41.0,Male,3.650402381298263,,Moderate,Yes,Non-Smoker,None,Rarely,1
+64.0,Female,5.119505704566612,High,Severe,No,Current Smoker,Moderate,Occasionally,1
+23.0,Female,0.8411149280671834,,Mild,Yes,Current Smoker,Low,Regularly,1
+34.0,Male,3.433288760988502,High,Moderate,Yes,Non-Smoker,High,Occasionally,0
+35.0,,5.245055532040932,Medium,Severe,Yes,Former Smoker,Moderate,Rarely,1
+77.0,Male,8.526129554384308,Medium,Severe,Yes,Non-Smoker,Moderate,Occasionally,0
+66.0,Male,4.27548146301096,Medium,Moderate,No,Former Smoker,Moderate,Occasionally,0
+22.0,,,High,Mild,No,,High,Never,1
+36.0,Female,2.556197250966088,High,,Yes,Former Smoker,Low,Never,1
+54.0,Female,4.425045013755874,,Moderate,No,Non-Smoker,High,Rarely,0
+52.0,Male,7.166950574775945,Medium,Moderate,No,Former Smoker,None,,0
+56.0,,2.2392321490936142,Medium,Severe,No,Non-Smoker,Low,Regularly,1
+44.0,Male,2.608758280677167,Low,Mild,No,Non-Smoker,Moderate,Regularly,0
+38.0,Male,8.672070396308253,Medium,Moderate,No,Current Smoker,None,Never,0
+,Male,,Low,,No,Former Smoker,Moderate,Regularly,0
+61.0,Female,2.7515153228466533,,Severe,Yes,Former Smoker,Low,Never,0
+22.0,Female,8.204648709812943,Low,Mild,No,Non-Smoker,Low,Occasionally,1
+36.0,Male,4.959497821365485,Low,Mild,Yes,Current Smoker,None,Never,1
+27.0,Male,9.916341312215442,High,Severe,No,Current Smoker,High,Occasionally,1
+,Female,9.242165406124533,,Moderate,Yes,Former Smoker,Moderate,Occasionally,1
+75.0,Male,6.29985736163818,,Severe,No,Non-Smoker,,Occasionally,0
+65.0,,6.769178299913483,,Moderate,No,Former Smoker,High,Occasionally,1
+78.0,Female,3.991683830808658,High,Mild,Yes,,,Occasionally,1
+76.0,Female,9.28680443210805,Medium,Severe,Yes,Former Smoker,Low,Never,1
+42.0,,5.977654867710678,,Moderate,No,,None,Regularly,0
+71.0,Female,4.4537135490806765,Low,Severe,,Non-Smoker,Low,Never,1
+49.0,Female,5.798496601103734,Low,Moderate,No,Former Smoker,Low,Never,0
+,Male,6.402725291083466,High,Severe,,Current Smoker,,Regularly,0
+36.0,Male,4.598034176149056,Low,Moderate,No,Non-Smoker,None,Regularly,0
+,Male,1.503142789112447,Medium,,Yes,Non-Smoker,Moderate,,0
+63.0,,3.5403802341786874,Low,Moderate,No,Non-Smoker,Moderate,Regularly,1
+49.0,Male,3.053890710014463,High,Severe,No,Non-Smoker,Moderate,,0
+61.0,Female,4.8078348001142865,High,Severe,Yes,Non-Smoker,High,,1
+65.0,Female,2.5730840252968528,Medium,Moderate,Yes,Current Smoker,Low,Occasionally,1
+,Male,8.755875126008771,High,Severe,No,Former Smoker,,Occasionally,1
+65.0,Female,3.478790329034611,Low,Severe,Yes,Non-Smoker,None,Regularly,0
+56.0,Male,7.717862213935323,,Mild,No,Current Smoker,High,Never,0
+77.0,Male,3.7011747717480237,Medium,Moderate,Yes,,Low,Rarely,1
+41.0,Female,8.849395640503257,Medium,Severe,No,Former Smoker,,Regularly,1
+48.0,,3.8375943332606552,Low,Severe,No,Former Smoker,High,Never,0
+26.0,Male,2.9923653215259436,Medium,Moderate,Yes,,High,Regularly,1
+70.0,Male,7.841155262217937,Low,Mild,,,High,Regularly,0
+31.0,Male,8.147223826410663,High,Severe,Yes,Former Smoker,Moderate,Occasionally,0
+23.0,Female,4.33630435284014,Medium,Moderate,No,Current Smoker,Moderate,Regularly,0
+28.0,Male,4.8478573508449685,High,Mild,No,Former Smoker,Moderate,Occasionally,1
+23.0,Female,1.151662637521273,Low,Severe,Yes,Non-Smoker,None,Never,0
+40.0,Female,7.968265607319447,High,Severe,No,Non-Smoker,Moderate,Regularly,0
+45.0,Male,3.97664582411219,Medium,Mild,No,Non-Smoker,None,Regularly,1
+77.0,Male,6.9555012410851695,High,Moderate,Yes,Non-Smoker,Moderate,Rarely,1
+65.0,,6.620945440701288,High,Moderate,No,Current Smoker,,Regularly,1
+52.0,Male,1.9989803347703616,Low,Mild,No,Non-Smoker,High,Rarely,0
+27.0,Female,9.054134557993866,Low,Severe,Yes,Current Smoker,Moderate,,1
+56.0,Male,9.365042506064176,Low,Mild,Yes,,Moderate,Rarely,1
+68.0,Female,3.1965872866572664,Low,Moderate,No,Current Smoker,Low,Regularly,0
+52.0,Male,2.6167288133363944,Medium,Moderate,Yes,,High,Never,0
+78.0,Male,8.189506303248535,Medium,Moderate,Yes,Former Smoker,Moderate,Rarely,0
+43.0,Female,6.470564768764642,Medium,Severe,Yes,Non-Smoker,High,Never,1
+22.0,Female,4.090329729832698,High,Mild,No,,None,Never,1
+35.0,Female,3.634099710953401,High,Severe,,Non-Smoker,High,,0
+69.0,Male,7.951571399636613,Low,,Yes,Non-Smoker,High,Never,0
+49.0,Male,8.750104826616097,Medium,,Yes,Former Smoker,,Never,1
+41.0,,,Low,Severe,No,Current Smoker,High,Never,0
+30.0,Male,5.380111284033079,Medium,Severe,Yes,Current Smoker,High,Never,1
+74.0,Female,1.8771331782694263,High,Mild,No,Non-Smoker,High,Rarely,1
+29.0,Male,3.4266644741797907,High,Mild,Yes,Current Smoker,None,Occasionally,1
+23.0,Male,1.0588999120393632,Low,Moderate,Yes,Current Smoker,,Occasionally,0
+,,9.637921246216417,High,Mild,No,Former Smoker,High,Never,1
+28.0,Male,6.033167871635962,High,Mild,No,Former Smoker,High,Rarely,0
+52.0,Male,8.183744892943452,Low,Severe,,Former Smoker,,Regularly,1
+,Female,2.0032026824979665,Low,Severe,Yes,Current Smoker,None,Never,1
+32.0,Male,9.405003536555077,Medium,Severe,No,,Moderate,Regularly,0
+75.0,Male,1.4809532354912713,High,Moderate,No,,None,Occasionally,1
+25.0,Female,6.120731915166674,High,Severe,Yes,,Moderate,Never,1
+72.0,Male,7.712444632009267,Medium,Moderate,Yes,Former Smoker,Low,Never,1
+36.0,,1.8406662568945797,Medium,Mild,Yes,Former Smoker,None,Never,1
+49.0,Male,5.17287002199211,High,,,Non-Smoker,Low,Rarely,0
+52.0,Female,9.307462232265655,Medium,Severe,Yes,Current Smoker,None,Rarely,0
+62.0,Male,,Medium,,No,Non-Smoker,Moderate,Regularly,1
+49.0,,1.4899634250880034,High,Moderate,No,Non-Smoker,Low,Rarely,0
+23.0,Male,5.754411591530762,High,Mild,No,Former Smoker,Low,Occasionally,1
+45.0,Male,7.004316625355885,Medium,,Yes,Former Smoker,Moderate,Rarely,1
+,,8.226211918686568,Medium,Mild,Yes,Former Smoker,Low,Rarely,1
+60.0,Male,7.908285552655993,Medium,Moderate,No,Current Smoker,Moderate,Occasionally,0
+,Male,3.989883678965573,High,Mild,No,Non-Smoker,None,Regularly,1
+52.0,Male,,Low,Mild,,Current Smoker,Low,Never,1
+69.0,Male,2.6018870687277738,High,Severe,Yes,Current Smoker,None,Occasionally,1
+38.0,,1.2789587527065214,Low,Severe,Yes,Non-Smoker,High,Rarely,0
+72.0,Male,,High,Mild,No,Former Smoker,None,Never,1
+,Male,6.471184715221056,High,Moderate,Yes,Non-Smoker,None,Occasionally,1
+20.0,Male,4.491693592823984,,Severe,Yes,Non-Smoker,Low,Regularly,1
+70.0,Female,1.137069229650927,,Moderate,,Non-Smoker,Low,Occasionally,0
+35.0,Male,1.1760869933567055,Medium,Severe,Yes,Former Smoker,None,Never,0
+54.0,,3.2142954505426093,Medium,Moderate,Yes,Current Smoker,High,Rarely,0
+36.0,Female,,Medium,Severe,Yes,Former Smoker,Moderate,,0
+26.0,,2.392504706878449,High,Mild,No,Non-Smoker,Low,,0
+22.0,Female,1.8787918511222208,,Moderate,No,,Moderate,,0
+38.0,Male,4.370831229937276,Medium,Mild,No,Non-Smoker,Low,Regularly,1
+,Male,2.103291316688054,Low,Moderate,Yes,Former Smoker,Low,Occasionally,0
+52.0,Female,8.463536615160795,Low,Mild,Yes,Current Smoker,High,Never,1
+32.0,Female,7.422154993222271,High,Mild,Yes,Former Smoker,High,Occasionally,1
+67.0,Female,8.618740020514359,Low,,Yes,Former Smoker,,Regularly,0
+56.0,Female,0.8549763227073952,Low,Mild,No,Non-Smoker,None,Rarely,0
+56.0,Male,2.8690819495240283,Low,Moderate,No,Former Smoker,Low,Never,0
+44.0,Male,6.083693057273758,Medium,Severe,Yes,Current Smoker,High,,1
+79.0,Male,4.610867817580533,Low,Mild,Yes,Current Smoker,None,Regularly,1
+56.0,Male,7.485110181181933,High,Severe,,Former Smoker,Low,Rarely,0
+76.0,Female,5.363409548047017,Low,Mild,Yes,Current Smoker,None,Rarely,0
+,Female,0.9395198959897233,Medium,,No,Current Smoker,Low,Never,0
+24.0,Male,3.9459081643812577,High,Mild,No,Non-Smoker,High,,0
+50.0,Male,6.272030101665569,Low,Moderate,,Non-Smoker,Low,,0
+58.0,Female,5.2233130892423665,Medium,Mild,No,Former Smoker,,Occasionally,0
+44.0,Female,0.8299607655414862,Medium,Moderate,Yes,Non-Smoker,High,Occasionally,1
+61.0,Female,8.263632034331565,Low,Moderate,No,Current Smoker,Low,Never,1
+,Female,2.6335010126657954,Low,Mild,Yes,Non-Smoker,High,Never,0
+22.0,Female,6.545862559287245,Low,Moderate,,Non-Smoker,Low,,0
+32.0,Male,1.3464320982082143,Low,Mild,Yes,Non-Smoker,Low,,1
+,Female,9.75544111656936,,Severe,Yes,Non-Smoker,High,Occasionally,1
+,Female,7.488865609206883,Low,Moderate,,Former Smoker,Low,,1
+74.0,,4.576292556487645,Low,,No,Current Smoker,Low,Occasionally,0
+65.0,Female,2.34599803279421,Low,Severe,Yes,Former Smoker,None,Occasionally,0
+67.0,Male,5.301111688992999,Medium,Moderate,No,Non-Smoker,None,Never,0
+34.0,Female,9.063749812200694,Medium,Mild,No,Current Smoker,Low,Never,1
+48.0,Male,9.240785525751466,High,Severe,Yes,Current Smoker,High,,1
+26.0,Male,5.498455706384492,Low,,Yes,Non-Smoker,Low,Never,1
+31.0,Male,,Low,Severe,Yes,Non-Smoker,None,Never,0
+44.0,Male,2.27687877157732,High,Severe,Yes,Former Smoker,Low,Never,1
+49.0,Male,0.5945680738448993,High,,Yes,Former Smoker,Moderate,,0
+55.0,Female,0.904683939463496,Low,Mild,No,Current Smoker,Moderate,Never,1
+27.0,Male,8.689102756003502,Low,Mild,No,Non-Smoker,None,Occasionally,1
+57.0,Female,9.056866905038662,Low,Moderate,Yes,Former Smoker,High,Rarely,1
+75.0,Male,3.300796751056055,Low,Moderate,No,Current Smoker,None,Rarely,1
+54.0,Female,3.0353951091771316,Medium,,Yes,Non-Smoker,Low,Regularly,1
+52.0,Male,2.465705825135159,Low,Mild,,Current Smoker,None,Rarely,0
+66.0,Male,4.074896821972358,High,Moderate,No,Former Smoker,Moderate,Regularly,1
+57.0,Male,6.418793957139613,Medium,Severe,Yes,Current Smoker,Moderate,Regularly,1
+42.0,,2.147584896961442,High,Moderate,No,,Low,,0
+45.0,Male,1.7881752074780355,Low,Moderate,Yes,Current Smoker,None,Rarely,1
+31.0,Male,1.8651520690142338,Low,,No,Non-Smoker,Low,Never,1
+73.0,Male,6.783636031235572,Low,Severe,,Non-Smoker,Low,Occasionally,1
+33.0,Male,0.8553750549623734,Medium,Mild,Yes,Former Smoker,Moderate,Never,1
+34.0,,0.8314967136009386,Medium,Moderate,Yes,,None,Regularly,1
+71.0,Female,8.712594759153635,Medium,Mild,No,Former Smoker,Low,Never,0
+47.0,Female,3.0016933651288342,Low,Mild,Yes,Current Smoker,Low,Rarely,0
+49.0,Male,,High,,No,Non-Smoker,Moderate,Rarely,1
+50.0,Male,5.349452387551032,,Mild,No,Non-Smoker,None,Never,1
+72.0,Female,1.0219158280351814,Medium,Mild,Yes,Former Smoker,Moderate,Never,1
+48.0,,3.713761652851003,Medium,Mild,Yes,Former Smoker,Low,,0
+25.0,Female,0.7757900822217751,Medium,Moderate,No,Non-Smoker,Moderate,Regularly,1
+55.0,Female,7.2482680166125935,Low,Severe,Yes,Non-Smoker,High,Rarely,0
+65.0,,5.780646808395568,Low,Moderate,No,Current Smoker,None,Never,1
+71.0,Male,5.20851664591126,Medium,Mild,No,Former Smoker,Moderate,Regularly,1
+20.0,Male,8.124941551928256,Medium,,Yes,Current Smoker,Moderate,Rarely,1
+21.0,Male,,Low,Severe,Yes,Current Smoker,Moderate,Never,0
+49.0,Male,5.974553960906757,Medium,Mild,Yes,,High,,0
+71.0,Female,4.853646069255019,Medium,Mild,,Former Smoker,Low,Regularly,0
+43.0,Female,1.7657089207462398,High,Moderate,No,Current Smoker,Low,Never,0
+66.0,Male,9.197359144641334,Medium,Severe,Yes,Current Smoker,None,Regularly,1
+70.0,Female,4.682818916013369,Low,Mild,Yes,Former Smoker,,Regularly,1
+,Female,9.037009422440269,Medium,Severe,,Current Smoker,None,Rarely,0
+26.0,Male,0.801570395115193,Medium,Severe,No,Former Smoker,Low,Never,0
+42.0,Male,5.117961977252636,Medium,Mild,Yes,Current Smoker,High,,0
+62.0,Female,4.488584132186652,High,,Yes,Current Smoker,High,Occasionally,0
+55.0,Male,5.664473490008903,Low,Mild,No,Current Smoker,High,Never,1
+47.0,Female,4.121550395507672,Low,Mild,Yes,Non-Smoker,,Occasionally,1
+71.0,Female,3.6153747575081385,Low,Mild,,Non-Smoker,None,Regularly,0
+44.0,Female,8.283009752040364,Low,Mild,Yes,,High,Rarely,0
+75.0,Female,7.1422343710798835,Low,Mild,No,Non-Smoker,Low,Regularly,0
+48.0,Female,5.299448317381755,Low,Severe,No,Former Smoker,Low,Rarely,0
+59.0,Female,5.398868901440949,Medium,,Yes,Current Smoker,None,Rarely,0
+52.0,Male,4.113286263143191,High,Mild,No,Current Smoker,Moderate,,1
+36.0,,5.586039432257475,Medium,Mild,Yes,Former Smoker,High,Never,0
+63.0,Female,9.51932226702504,,Severe,,Former Smoker,High,Occasionally,1
+33.0,Male,0.6929117377396738,Medium,Severe,No,Former Smoker,High,Regularly,0
+,Male,6.056918539498103,,,Yes,Non-Smoker,None,Regularly,1
+20.0,Male,4.861285228956846,Medium,Moderate,No,Former Smoker,Moderate,,1
+60.0,Male,8.688944919594153,,Severe,No,Current Smoker,Low,Never,0
+54.0,Male,7.090011940637612,Medium,Moderate,No,Non-Smoker,None,Regularly,0
+68.0,,3.230081625886318,High,Severe,Yes,Former Smoker,None,,1
+,Male,8.133584814987206,High,,No,Non-Smoker,None,Rarely,0
+73.0,Male,7.949869926854355,Low,Mild,No,Former Smoker,Moderate,Regularly,1
+37.0,Female,7.4526853279858045,Medium,Moderate,No,Current Smoker,Low,Rarely,1
+,Male,1.0237381416239661,Low,Moderate,No,Current Smoker,Low,Rarely,1
+44.0,Female,1.593836819614013,High,Mild,Yes,Non-Smoker,Low,Regularly,0
+78.0,Female,,Medium,Severe,,,None,Occasionally,0
+45.0,Female,9.31290426120327,High,Severe,No,Former Smoker,Low,,0
+72.0,Female,,Low,Severe,No,Former Smoker,None,Never,0
+35.0,Female,7.093295253526348,Medium,Mild,Yes,Former Smoker,Low,Occasionally,1
+39.0,Female,7.23907815322749,High,Mild,No,Former Smoker,None,Regularly,1
+79.0,,0.5257949201261993,High,Moderate,Yes,Current Smoker,Low,Occasionally,1
+73.0,Female,2.5369280352064,High,Mild,No,Former Smoker,Low,Rarely,0
+61.0,Male,5.552710128079882,Medium,Mild,Yes,Non-Smoker,,Never,0
+,Female,9.441575841796348,,Moderate,Yes,Non-Smoker,High,Occasionally,1
+52.0,Female,6.485677221640585,Medium,Mild,Yes,Non-Smoker,Moderate,Never,0
+40.0,Female,6.686485692616824,Medium,Mild,No,Former Smoker,None,Never,0
+25.0,Male,0.9882174908591399,High,Severe,No,Current Smoker,Low,Regularly,0
+28.0,Male,3.312295419105446,Medium,Mild,No,Former Smoker,High,Regularly,1
+62.0,Male,4.323107291637544,Low,Severe,Yes,Current Smoker,Moderate,Rarely,1
+72.0,Male,9.343298759923762,Medium,Mild,No,Current Smoker,None,Rarely,0
+,Male,,Medium,Severe,,Current Smoker,Moderate,Occasionally,1
+71.0,Female,7.5638623829081,Medium,Mild,No,,Low,Rarely,0
+46.0,Male,3.594065645809897,Low,Mild,Yes,Current Smoker,None,Regularly,1
+29.0,,,Low,Severe,Yes,Former Smoker,None,Never,0
+29.0,,4.692333822807149,Low,Moderate,,Former Smoker,High,Regularly,1
+76.0,Female,9.502926639873236,Low,Moderate,No,Current Smoker,Moderate,Never,0
+,Male,5.209210405989654,Low,Mild,Yes,Non-Smoker,High,Rarely,0
+35.0,Female,6.445869773885338,Medium,Severe,No,Current Smoker,High,Never,1
+,Female,4.395643212994424,High,,Yes,,Moderate,Rarely,0
+74.0,Male,9.912946141447902,Low,Mild,Yes,Non-Smoker,None,Regularly,1
+62.0,Female,4.662289108601249,,Mild,Yes,Former Smoker,Low,Never,0
+39.0,Female,8.47120385849784,Low,Severe,Yes,Former Smoker,None,Occasionally,0
+62.0,Female,1.8597650919230015,Low,,No,Former Smoker,High,Rarely,0
+37.0,Female,9.988034978867482,High,Severe,Yes,Current Smoker,Low,Never,0
+77.0,Female,2.619610805828164,Low,Moderate,Yes,Current Smoker,Low,,0
+75.0,Female,3.441024858192881,Medium,Mild,Yes,Former Smoker,None,Never,0
+45.0,Male,1.0780153059473683,Low,Moderate,Yes,Non-Smoker,,Regularly,1
+74.0,,2.009799070023563,,Moderate,Yes,Former Smoker,Low,Never,1
+32.0,,,Low,Moderate,No,,Moderate,Never,0
+45.0,Female,8.021506226379952,High,Moderate,,Non-Smoker,High,Regularly,0
+51.0,Male,5.416375623834131,Medium,Mild,No,Current Smoker,Low,Rarely,1
+26.0,Female,1.5033086128139803,High,Mild,No,Current Smoker,None,Never,1
+36.0,Male,6.393219555814494,,Moderate,Yes,Former Smoker,Low,Occasionally,1
+54.0,Male,,Medium,Moderate,No,Former Smoker,High,Occasionally,0
+61.0,Male,3.540547795437171,Medium,Severe,Yes,Non-Smoker,High,Rarely,1
+68.0,Female,,High,Severe,No,Non-Smoker,High,Rarely,0
+37.0,Male,9.49690005006509,,Mild,Yes,Non-Smoker,Moderate,Rarely,0
+29.0,Male,3.1692083560057274,High,,Yes,Former Smoker,Low,Never,1
+56.0,Male,,Low,Moderate,No,,,Occasionally,1
+66.0,Female,3.4794542883006128,Medium,Mild,Yes,Non-Smoker,Low,Never,1
+37.0,Male,5.759742995293406,Medium,Severe,Yes,Non-Smoker,Low,Rarely,0
+31.0,Male,4.214128077942691,High,Moderate,No,Former Smoker,Moderate,Rarely,0
+61.0,Female,2.2172034784034618,Medium,,Yes,Non-Smoker,None,Regularly,1
+50.0,Male,1.6382897114105128,High,Moderate,Yes,Non-Smoker,High,Never,0
+43.0,Female,7.7546685687482855,Medium,Moderate,,Current Smoker,High,,0
+51.0,Male,8.703747318416687,High,Mild,Yes,Former Smoker,High,Rarely,0
+20.0,Male,8.719698099336297,Low,Severe,,Current Smoker,Moderate,Occasionally,1
+59.0,Female,7.778299777844536,High,Moderate,Yes,Current Smoker,None,Rarely,1
+77.0,Female,2.196953191804816,High,Mild,Yes,Current Smoker,Low,,1
+73.0,Male,6.263057634497608,Low,Moderate,Yes,Former Smoker,,Never,1
+37.0,Male,9.107171012450571,Medium,Moderate,Yes,Former Smoker,None,Regularly,1
+,Male,9.813127458341247,Medium,Moderate,No,,High,Rarely,0
+,Male,6.775938348462478,Low,Moderate,No,Current Smoker,Moderate,,1
+21.0,Male,9.136431479715178,,Severe,No,,None,Never,0
+52.0,Male,8.926475679666106,Low,Mild,,Non-Smoker,None,Never,1
+41.0,Female,,High,Mild,Yes,Former Smoker,None,Never,1
+43.0,Female,5.0411696753766515,Low,Mild,Yes,Former Smoker,None,Rarely,0
+47.0,Male,9.400881149314886,Low,Severe,Yes,Current Smoker,None,Regularly,0
+79.0,Female,1.1951341822029793,Low,Mild,No,Current Smoker,None,Rarely,0
+40.0,Female,4.3137741961530445,Low,Moderate,No,Non-Smoker,Low,Never,0
+,Female,,Medium,,No,Current Smoker,None,Rarely,0
+73.0,Female,,Medium,Moderate,No,Former Smoker,Moderate,,0
+65.0,Male,6.528521151488109,Low,,Yes,Current Smoker,Moderate,Occasionally,0
+28.0,Male,8.58877784229846,Medium,Severe,No,Former Smoker,Low,Never,0
+54.0,Female,8.336111938265391,Low,Severe,No,Current Smoker,None,Never,0
+69.0,Female,4.83792093851525,High,Severe,No,Former Smoker,High,Rarely,1
+,Male,6.939753814867634,Low,Moderate,No,Non-Smoker,None,Occasionally,0
+75.0,Male,9.525473867707072,High,Moderate,No,Current Smoker,Moderate,Regularly,0
+78.0,Male,2.790265593397846,High,Mild,Yes,Non-Smoker,,Never,0
+,Male,1.3937182608471004,Medium,,Yes,Current Smoker,Moderate,Regularly,0
+30.0,Female,,High,Mild,Yes,Former Smoker,Moderate,Never,0
+58.0,Male,1.481100676243409,High,Severe,Yes,Non-Smoker,Moderate,Never,1
+29.0,Male,8.473361881279697,Medium,,No,Non-Smoker,Moderate,Never,1
+,Female,1.0004327209911426,Low,Mild,No,Non-Smoker,Low,Rarely,0
+48.0,Female,0.9004913773847887,Low,Severe,Yes,Non-Smoker,None,Rarely,0
+40.0,Male,0.6698453752502485,High,Moderate,No,Non-Smoker,None,Occasionally,0
+74.0,Male,1.6755048116736235,Low,,Yes,Non-Smoker,,Regularly,0
+35.0,Male,,Low,Moderate,Yes,Current Smoker,None,,0
+61.0,Male,,,Severe,No,Former Smoker,Moderate,Occasionally,1
+26.0,Male,6.284304708376666,Medium,Moderate,No,,None,Never,0
+46.0,Male,6.9457275810108845,High,Moderate,No,Current Smoker,Moderate,Never,1
+51.0,,7.398650818468609,Medium,Moderate,Yes,Non-Smoker,None,Never,1
+36.0,,3.2114638017119224,High,Mild,No,Non-Smoker,Moderate,Regularly,1
+32.0,Male,5.795976224171959,High,Severe,Yes,Non-Smoker,Low,Occasionally,1
+61.0,Female,3.6621622738248956,Low,Moderate,No,Non-Smoker,Low,Regularly,0
+40.0,Female,5.452857825766714,,Moderate,Yes,Non-Smoker,None,Never,1
+,Female,9.223421055348483,Medium,Mild,No,Non-Smoker,None,Occasionally,1
+74.0,Female,1.1465051255086312,Low,Severe,Yes,,High,Occasionally,0
+24.0,Female,8.46310728054777,Medium,Mild,No,Current Smoker,Low,Rarely,1
+,Male,4.737623032813075,High,Severe,No,Current Smoker,Moderate,Regularly,1
+55.0,Female,9.722389596568195,Low,Severe,No,Former Smoker,None,Rarely,1
+43.0,Male,1.940849035406814,Low,Moderate,Yes,Non-Smoker,Low,,0
+,Female,9.545853200221119,Low,Severe,,Non-Smoker,High,Occasionally,1
+29.0,Female,1.3091386788053905,High,Moderate,Yes,Non-Smoker,High,Rarely,0
+56.0,Male,9.10764938408965,High,Mild,Yes,Current Smoker,High,Rarely,0
+23.0,Male,4.111760287889684,Medium,Moderate,Yes,Non-Smoker,High,Occasionally,0
+73.0,Female,2.0513170428019327,High,Mild,Yes,Former Smoker,High,Occasionally,0
+22.0,Female,6.512283128986394,Medium,Mild,Yes,Non-Smoker,Low,Never,1
+70.0,Female,4.578790025612991,Medium,Moderate,Yes,Non-Smoker,Moderate,Rarely,1
+53.0,Female,4.960272524863977,High,Mild,No,Non-Smoker,,Occasionally,0
+25.0,Female,4.019233168116612,Medium,Severe,No,Non-Smoker,Low,Rarely,1
+,Male,2.2423323579115317,Medium,Moderate,No,Current Smoker,Low,Occasionally,1
+71.0,Female,2.5517500075467083,,Severe,Yes,Non-Smoker,,Never,1
+79.0,,8.293036419678835,High,Mild,,Current Smoker,None,,0
+21.0,Male,8.79744832809543,High,Severe,Yes,Current Smoker,None,Regularly,0
+39.0,Male,2.6818143884682843,Low,Moderate,No,Current Smoker,,Never,1
+67.0,,0.650656588326096,Low,,No,Former Smoker,Moderate,Regularly,1
+,Female,2.063904192425645,High,,Yes,Current Smoker,None,Occasionally,0
+38.0,Female,,Medium,,No,Former Smoker,Moderate,Regularly,1
+37.0,Female,4.117392735037291,High,,No,Current Smoker,High,Occasionally,1
+27.0,Male,3.062584763374475,High,Moderate,Yes,Non-Smoker,Moderate,Rarely,0
+50.0,Male,3.7425056283859175,Medium,Moderate,,Non-Smoker,High,Never,0
+72.0,Male,6.480748807427014,Low,Mild,No,Current Smoker,High,Occasionally,1
+38.0,Female,1.3306325387149822,Low,Mild,Yes,Current Smoker,Low,Occasionally,0
+38.0,Male,4.416247607809455,,Moderate,Yes,Current Smoker,High,Regularly,0
+35.0,Male,9.051052802680065,Low,Severe,No,Former Smoker,High,Rarely,1
+59.0,Male,3.2327814226905622,Medium,Moderate,No,Non-Smoker,High,Occasionally,1
+44.0,Female,6.795919486180126,Low,Mild,No,Former Smoker,High,Occasionally,0
+25.0,Female,5.351739063786189,High,Mild,,Former Smoker,None,Regularly,0
+32.0,Male,3.59529828242666,Medium,Moderate,No,Non-Smoker,High,Never,1
+24.0,,9.311778590993606,,Severe,Yes,Former Smoker,Moderate,Never,0
+26.0,Female,4.795616627602646,Low,Mild,Yes,Former Smoker,None,Never,1
+31.0,Female,2.2173599424282946,High,Severe,No,Former Smoker,Moderate,Regularly,0
+73.0,Female,1.6202550801532836,Medium,Severe,,Former Smoker,None,Never,0
+78.0,,8.57508699671764,High,Moderate,Yes,,High,Never,0
+68.0,Male,7.431502776250987,High,Mild,No,Non-Smoker,,Never,1
+61.0,Female,4.38482591846884,High,Mild,Yes,Former Smoker,High,Rarely,1
+44.0,Male,1.6226228462591794,Low,,Yes,Current Smoker,High,Regularly,1
+68.0,Male,9.788493063991732,Low,Moderate,Yes,Current Smoker,Low,Regularly,1
+22.0,Female,6.312377103209496,High,Mild,Yes,Former Smoker,Moderate,Never,0
+60.0,Female,0.8823712886755484,Medium,Mild,No,,,Rarely,1
+24.0,Female,2.804069709469909,Low,Severe,Yes,Non-Smoker,High,Regularly,0
+53.0,Female,9.62706687636353,Medium,Moderate,No,Non-Smoker,Low,,1
+70.0,Female,5.379020901096687,Low,Severe,No,Current Smoker,None,,0
+78.0,Female,8.212788078818352,High,,No,Former Smoker,Low,Occasionally,1
+39.0,Female,9.162112086296009,Medium,Mild,Yes,Former Smoker,Moderate,Rarely,1
+25.0,,4.469013137239796,,Moderate,No,Non-Smoker,High,Never,0
+60.0,Female,8.998887467511587,Low,Moderate,Yes,,Low,Never,0
+41.0,Male,,High,Moderate,No,Non-Smoker,Low,Occasionally,0
+67.0,,9.02430336497749,Low,Moderate,No,Non-Smoker,Moderate,Regularly,0
+74.0,Male,3.673627096784841,High,Severe,Yes,Current Smoker,,Never,0
+60.0,Male,4.30314184659884,Medium,Mild,Yes,Current Smoker,Low,Regularly,0
+75.0,Male,,Medium,Moderate,Yes,Non-Smoker,High,Rarely,1
+76.0,Female,,Medium,Mild,Yes,Former Smoker,None,Regularly,0
+25.0,Female,7.921374686043638,Medium,Mild,No,Non-Smoker,High,Regularly,0
+65.0,Male,1.4533195316257748,Medium,Moderate,No,Non-Smoker,,Occasionally,1
+35.0,Male,6.236658815922539,Low,Moderate,No,Current Smoker,,Regularly,0
+,Female,2.0375273370961358,Low,Moderate,No,Current Smoker,,Regularly,0
+57.0,Male,7.397711033760858,Low,Moderate,No,,None,Regularly,1
+72.0,Male,6.5566973150987815,High,Mild,Yes,Former Smoker,High,Occasionally,1
+28.0,Male,,Low,Mild,Yes,Current Smoker,Moderate,Never,1
+38.0,Male,1.819925134226464,Low,Severe,No,Current Smoker,High,Rarely,1
+24.0,Male,1.1889426207718112,Medium,Severe,No,Former Smoker,Moderate,Rarely,1
+27.0,Female,9.673552200823519,Medium,Severe,No,Non-Smoker,Moderate,Rarely,0
+66.0,Male,7.919859708094423,High,Mild,No,Current Smoker,None,Never,1
+21.0,Female,3.424822355411668,Low,Moderate,No,,High,Never,0
+,Male,3.1118211186027613,Low,Severe,Yes,Former Smoker,High,,0
+70.0,Male,7.680357975123428,High,Moderate,Yes,Current Smoker,High,Occasionally,0
+42.0,,3.980704787887878,High,,Yes,Former Smoker,Moderate,Regularly,0
+78.0,Male,9.839191518666333,High,Severe,No,,Moderate,,0
+,Male,2.395828134287081,High,Moderate,No,Current Smoker,Moderate,Regularly,0
+65.0,Male,9.3011940785095,High,Severe,No,Non-Smoker,None,Regularly,0
+49.0,Male,0.7784100730850605,High,Moderate,Yes,Non-Smoker,Moderate,Rarely,1
+38.0,Male,9.17617864763476,High,Mild,No,Former Smoker,High,Regularly,0
+38.0,Female,8.337104434089404,Medium,Moderate,No,Non-Smoker,Moderate,Regularly,1
+,Female,1.1935440212574473,Medium,Mild,No,Former Smoker,Low,Rarely,1
+38.0,Male,2.702462402511701,High,Mild,Yes,Former Smoker,None,Rarely,0
+42.0,Male,2.9440712195966094,Medium,Severe,Yes,Current Smoker,Low,Never,1
+26.0,Male,3.801969629144226,High,Severe,No,Current Smoker,High,Rarely,0
+38.0,Male,6.351719665705641,Low,Moderate,No,Non-Smoker,High,Regularly,0
+58.0,Female,7.309051892810741,Low,Severe,Yes,Non-Smoker,None,Never,0
+25.0,Female,1.3490893888068454,Medium,,Yes,Current Smoker,High,Rarely,0
+70.0,Male,6.156713457722304,Low,Mild,No,Non-Smoker,High,Rarely,0
+,Female,5.375661227720432,Medium,Severe,No,Non-Smoker,None,Never,1
+68.0,Female,8.544202646801452,Low,Mild,Yes,Former Smoker,None,Regularly,1
+52.0,Male,9.648575064895203,High,Mild,No,Non-Smoker,High,Rarely,0
+21.0,,,Low,Mild,Yes,Non-Smoker,Low,Never,1
+49.0,Female,1.2005818071720693,Low,Moderate,Yes,Non-Smoker,High,Rarely,1
+39.0,Female,4.9776275208094045,,Moderate,No,Current Smoker,Low,Rarely,1
+38.0,Male,2.337139018848044,Medium,Severe,No,Former Smoker,None,Rarely,1
+67.0,Male,8.2278802514682,Low,Mild,No,Non-Smoker,None,Occasionally,0
+62.0,,9.849870049163467,Low,Mild,No,Non-Smoker,Moderate,Rarely,1
+43.0,Male,6.19786822002514,Medium,Mild,,Former Smoker,None,Rarely,1
+51.0,Female,8.909563369230089,Medium,Moderate,Yes,,High,Regularly,0
+26.0,Female,8.395451589004697,,Mild,No,Current Smoker,None,Occasionally,0
+66.0,Female,5.307045863399161,Medium,Mild,No,Former Smoker,High,Rarely,0
+,Male,6.304971884561404,Low,Severe,No,,None,Regularly,0
+20.0,,,Low,Severe,Yes,Former Smoker,Moderate,Never,1
+58.0,Female,,Low,Severe,Yes,Non-Smoker,None,Never,1
+59.0,Female,1.8366441198954349,Medium,Moderate,Yes,Former Smoker,None,Occasionally,1
+48.0,Male,8.433642178336333,Low,Moderate,Yes,Non-Smoker,High,Occasionally,1
+69.0,Female,5.295157340233226,Low,Severe,No,Current Smoker,Moderate,Regularly,0
+60.0,,6.912015438473108,High,Moderate,Yes,Former Smoker,High,,0
+69.0,Female,3.1286178204252613,Medium,Moderate,No,Non-Smoker,High,Never,0
+60.0,Female,7.607820609097372,High,Mild,Yes,Former Smoker,Low,Occasionally,1
+42.0,Male,4.126660398178675,Low,Moderate,,Current Smoker,Low,Occasionally,0
+27.0,,8.282344767392544,High,Mild,Yes,Current Smoker,Moderate,,0
+63.0,Female,1.4312806030619254,High,Mild,No,Non-Smoker,High,Regularly,1
+61.0,Male,8.289406069772214,High,Mild,Yes,Current Smoker,High,Occasionally,0
+49.0,Male,,,Mild,,Current Smoker,High,,1
+53.0,,1.5199435038493192,Low,Mild,Yes,Current Smoker,Moderate,Rarely,0
+75.0,Male,1.7356355361554636,Medium,Moderate,Yes,Current Smoker,None,,1
+65.0,,9.875849476977693,High,,No,Former Smoker,,Rarely,1
+35.0,Female,3.6709735851112724,High,,Yes,Current Smoker,Low,Never,1
+58.0,Female,0.8180654548909247,High,Severe,Yes,Former Smoker,Moderate,Occasionally,1
+50.0,,2.4402750177925023,Medium,Moderate,No,Former Smoker,None,Occasionally,0
+45.0,Female,6.0959686132797914,High,Mild,No,Former Smoker,Low,Rarely,0
+41.0,Male,7.105463262790699,High,Mild,No,Former Smoker,Moderate,Occasionally,0
+48.0,Male,8.7892916654906,Low,Severe,,Former Smoker,Low,Rarely,0
+44.0,Female,9.71149755800398,Medium,Moderate,No,,None,Occasionally,0
+,,0.7829245751453456,Low,Moderate,Yes,Non-Smoker,High,Rarely,1
+67.0,Female,6.779133055065911,High,Moderate,No,Former Smoker,None,Rarely,0
+,Female,7.286332111397531,,Severe,No,Current Smoker,Moderate,Rarely,0
+,Female,7.747756229987611,High,Mild,Yes,Current Smoker,None,Occasionally,0
+67.0,Male,1.6693983012467206,Low,Severe,No,Former Smoker,High,Rarely,1
+76.0,Female,5.974396374922867,High,Severe,Yes,Non-Smoker,Moderate,Occasionally,1
+62.0,Male,3.748726188692271,,Severe,No,Current Smoker,,Never,1
+75.0,Male,,,Severe,No,Non-Smoker,Moderate,Never,0
+27.0,Male,8.90680677061567,High,Moderate,Yes,Non-Smoker,Moderate,Occasionally,0
+37.0,Female,1.6475358787136012,Low,Severe,No,Current Smoker,Low,Never,0
+40.0,Female,7.111373885308339,,Mild,,Non-Smoker,High,Rarely,0
+58.0,Female,8.888728279465866,High,,No,,High,Rarely,1
+68.0,Male,4.862451570967936,Medium,Moderate,No,Non-Smoker,None,Never,1
+21.0,,4.981441604418458,Medium,Severe,No,Current Smoker,,Occasionally,1
+,Male,,Low,Mild,Yes,Former Smoker,Moderate,Regularly,1
+56.0,Female,5.2377284668919355,Low,Severe,Yes,Non-Smoker,Low,Occasionally,0
+28.0,Male,3.213199195554808,Medium,Mild,Yes,Non-Smoker,High,,0
+76.0,,1.83597176859828,Medium,Mild,Yes,Former Smoker,,Never,0
+71.0,Female,1.5466136021058716,Medium,Mild,Yes,,None,Never,0
+73.0,Male,9.043807962253762,Medium,Severe,No,Non-Smoker,High,Never,0
+52.0,,3.5396931782585206,High,Severe,No,Non-Smoker,Moderate,Regularly,0
+46.0,Female,4.485028611266496,Low,,,Non-Smoker,None,Regularly,0
+31.0,Female,,Medium,Mild,Yes,,High,Occasionally,0
+59.0,Male,4.85173875406963,Low,Mild,Yes,Non-Smoker,High,Regularly,1
+34.0,Male,9.640305793578246,High,Mild,Yes,Current Smoker,High,Occasionally,0
+74.0,Male,1.1423849265027806,Low,Mild,No,Current Smoker,Low,Rarely,0
+53.0,,4.05813378300121,High,Mild,No,Current Smoker,Low,,0
+57.0,Female,5.542531984455071,High,Moderate,Yes,Former Smoker,High,Occasionally,1
+,Female,0.8660003902645543,Medium,Mild,,Non-Smoker,High,Never,0
+47.0,,7.859644985356437,Low,Severe,Yes,Former Smoker,None,Rarely,1
+59.0,Male,5.109341199301064,Medium,Mild,Yes,Current Smoker,Low,Occasionally,1
